@@ -1,0 +1,1375 @@
+speaker,speaker_status,poem,lines,line_count,level,quoted_by,flags,joint_speakers,dices_id
+Acamas (son of Antenor),participant,Iliad,14.479-485,7,direct,,,,384
+Achilles,participant,Iliad,1.59-67,9,direct,,,,4
+Achilles,participant,Iliad,1.85-91,7,direct,,,,6
+Achilles,participant,Iliad,1.122-129,8,direct,,,,9
+Achilles,participant,Iliad,1.149-171,23,direct,,,,11
+Achilles,participant,Iliad,1.202-205,4,direct,,,,13
+Achilles,participant,Iliad,1.216-218,3,direct,,,,15
+Achilles,participant,Iliad,1.225-244,20,direct,,,,16
+Achilles,participant,Iliad,1.293-303,11,direct,,,,19
+Achilles,participant,Iliad,1.334-344,11,direct,,,,21
+Achilles,participant,Iliad,1.352-356,5,direct,,prayer,,22
+Achilles,participant,Iliad,1.365-412,48,direct,,,,24
+Achilles,participant,Iliad,9.197-198,2,direct,,,,238
+Achilles,participant,Iliad,9.202-204,3,direct,,,,239
+Achilles,participant,Iliad,9.308-429,122,direct,,,,242
+Achilles,participant,Iliad,9.607-619,13,direct,,,,244
+Achilles,participant,Iliad,9.644-655,12,direct,,,,246
+Achilles,participant,Iliad,11.608-615,8,direct,,,,312
+Achilles,participant,Iliad,16.7-19,13,direct,,,,420
+Achilles,participant,Iliad,16.49-100,52,direct,,,,422
+Achilles,participant,Iliad,16.126-129,4,direct,,,,423
+Achilles,participant,Iliad,16.200-209,6,direct,,,,424
+Achilles,participant,Iliad,16.233-248,16,direct,,prayer,,426
+Achilles,participant,Iliad,16.839-841,3,embedded,Hector,,,443
+Achilles,participant,Iliad,18.6-14,9,direct,,,,480
+Achilles,participant,Iliad,18.79-93,15,direct,,,,484
+Achilles,participant,Iliad,18.98-126,29,direct,,,,486
+Achilles,participant,Iliad,18.182,1,direct,,,,490
+Achilles,participant,Iliad,18.188-195,8,direct,,,,492
+Achilles,participant,Iliad,18.324-342,19,direct,,,,496
+Achilles,participant,Iliad,19.21-27,7,direct,,,,506
+Achilles,participant,Iliad,19.56-73,18,direct,,,,508
+Achilles,participant,Iliad,19.146-153,8,direct,,,,513
+Achilles,participant,Iliad,19.199-214,16,direct,,,,516
+Achilles,participant,Iliad,19.270-275,6,direct,,,,519
+Achilles,participant,Iliad,19.305-308,4,direct,,,,521
+Achilles,participant,Iliad,19.315-337,23,direct,,,,522
+Achilles,participant,Iliad,19.400-403,4,direct,,,,524
+Achilles,participant,Iliad,19.420-423,4,direct,,,,526
+Achilles,participant,Iliad,20.178-198,21,direct,,,,534
+Achilles,participant,Iliad,20.344-352,9,direct,,,,539
+Achilles,participant,Iliad,20.354-363,10,direct,,,,540
+Achilles,participant,Iliad,20.389-392,4,direct,,,,543
+Achilles,participant,Iliad,20.425-427,3,direct,,,,544
+Achilles,participant,Iliad,20.429,1,direct,,,,545
+Achilles,participant,Iliad,20.449-454,6,direct,,,,547
+Achilles,participant,Iliad,21.54-63,10,direct,,,,548
+Achilles,participant,Iliad,21.99-113,15,direct,,,,550
+Achilles,participant,Iliad,21.122-135,14,direct,,,,551
+Achilles,participant,Iliad,21.150-151,2,direct,,,,552
+Achilles,participant,Iliad,21.184-199,16,direct,,,,554
+Achilles,participant,Iliad,21.223-226,4,direct,,,,556
+Achilles,participant,Iliad,21.273-283,11,direct,,prayer,,558
+Achilles,participant,Iliad,22.15-20,6,direct,,,,580
+Achilles,participant,Iliad,22.261-272,12,direct,,,,593
+Achilles,participant,Iliad,22.331-336,6,direct,,,,596
+Achilles,participant,Iliad,22.345-354,10,direct,,,,598
+Achilles,participant,Iliad,22.365-366,2,direct,,,,600
+Achilles,participant,Iliad,22.378-394,17,direct,,,,602
+Achilles,participant,Iliad,23.6-11,6,direct,,,,608
+Achilles,participant,Iliad,23.19-23,5,direct,,,,609
+Achilles,participant,Iliad,23.43-53,11,direct,,,,610
+Achilles,participant,Iliad,23.94-98,5,direct,,dream,,612
+Achilles,participant,Iliad,23.103-107,5,direct,,,,613
+Achilles,participant,Iliad,23.144-151,8,direct,,prayer,,614
+Achilles,participant,Iliad,23.156-160,5,direct,,,,615
+Achilles,participant,Iliad,23.179-183,5,direct,,,,616
+Achilles,participant,Iliad,23.236-248,13,direct,,,,618
+Achilles,participant,Iliad,23.272-286,15,direct,,,,619
+Achilles,participant,Iliad,23.492-498,7,direct,,,,628
+Achilles,participant,Iliad,23.536-538,3,direct,,,,629
+Achilles,participant,Iliad,23.558-562,5,direct,,,,631
+Achilles,participant,Iliad,23.618-623,6,direct,,,,636
+Achilles,participant,Iliad,23.658-663,6,direct,,,,638
+Achilles,participant,Iliad,23.707,1,direct,,,,640
+Achilles,participant,Iliad,23.735-737,3,direct,,,,642
+Achilles,participant,Iliad,23.753,1,direct,,,,643
+Achilles,participant,Iliad,23.795-796,2,direct,,,,647
+Achilles,participant,Iliad,23.802-810,9,direct,,,,648
+Achilles,participant,Iliad,23.831-835,5,direct,,,,649
+Achilles,participant,Iliad,23.855-858,4,direct,,,,650
+Achilles,participant,Iliad,23.890-894,5,direct,,,,651
+Achilles,participant,Iliad,24.139-140,2,direct,,,,659
+Achilles,participant,Iliad,24.518-551,34,direct,,,,683
+Achilles,participant,Iliad,24.560-570,11,direct,,,,685
+Achilles,participant,Iliad,24.592-595,4,direct,,,,686
+Achilles,participant,Iliad,24.599-620,22,direct,,,,687
+Achilles,participant,Iliad,24.650-658,9,direct,,,,689
+Achilles,participant,Iliad,24.669-670,2,direct,,,,691
+Achilles,participant,Odyssey,11.473-476,4,embedded,Odysseus,,,963
+Achilles,participant,Odyssey,11.488-503,16,embedded,Odysseus,,,965
+Achilles,participant,Odyssey,24.24-34,11,direct,,,,1338
+Achilles,participant,Iliad,9.685-687,3,embedded,Odysseus,not-in-DICES,,
+"Adrastus (Trojan, Il 6)",participant,Iliad,6.46-50,5,direct,,,,152
+Aegyptius,participant,Odyssey,2.25-34,10,direct,,,,719
+Aeneas,participant,Iliad,5.171-178,8,direct,,,,118
+Aeneas,participant,Iliad,5.218-228,11,direct,,,,120
+Aeneas,participant,Iliad,16.617-618,2,direct,,,,435
+Aeneas,participant,Iliad,17.335-341,7,direct,,,,460
+Aeneas,participant,Iliad,20.87-102,16,direct,,,,530
+Aeneas,participant,Iliad,20.200-258,59,direct,,,,535
+Aeolus (son of Hippotes),participant,Odyssey,10.72-75,4,embedded,Odysseus,,,913
+Agamemnon,participant,Iliad,1.26-32,7,direct,,,,2
+Agamemnon,participant,Iliad,1.106-120,15,direct,,,,8
+Agamemnon,participant,Iliad,1.131-147,17,direct,,,,10
+Agamemnon,participant,Iliad,1.173-187,15,direct,,,,12
+Agamemnon,participant,Iliad,1.286-291,6,direct,,,,18
+Agamemnon,participant,Iliad,1.322-325,4,direct,,,,20
+Agamemnon,participant,Iliad,2.56-75,9,direct,,,,39
+Agamemnon,participant,Iliad,2.110-141,32,direct,,,,42
+Agamemnon,participant,Iliad,2.370-393,24,direct,,,,53
+Agamemnon,participant,Iliad,2.412-418,7,direct,,prayer,,54
+Agamemnon,participant,Iliad,3.82-83,2,direct,,,,59
+Agamemnon,participant,Iliad,3.276-291,16,direct,,prayer,,73
+Agamemnon,participant,Iliad,3.456-460,5,direct,,,,84
+Agamemnon,participant,Iliad,4.155-182,24,direct,,,,92
+Agamemnon,participant,Iliad,4.189-191,3,direct,,,,95
+Agamemnon,participant,Iliad,4.193-197,5,direct,,,,96
+Agamemnon,participant,Iliad,4.234-239,6,direct,,,,98
+Agamemnon,participant,Iliad,4.242-249,8,direct,,,,99
+Agamemnon,participant,Iliad,4.257-264,8,direct,,,,100
+Agamemnon,participant,Iliad,4.285-291,7,direct,,,,102
+Agamemnon,participant,Iliad,4.313-316,4,direct,,,,104
+Agamemnon,participant,Iliad,4.338-348,11,direct,,,,106
+Agamemnon,participant,Iliad,4.358-363,6,direct,,,,108
+Agamemnon,participant,Iliad,4.370-400,31,direct,,,,109
+Agamemnon,participant,Iliad,5.529-532,4,direct,,,,138
+Agamemnon,participant,Iliad,6.55-60,6,direct,,,,153
+Agamemnon,participant,Iliad,7.109-119,11,direct,,,,185
+Agamemnon,participant,Iliad,7.406-411,6,direct,,,,203
+Agamemnon,participant,Iliad,8.228-244,17,direct,,prayer,,220
+Agamemnon,participant,Iliad,8.281-291,11,direct,,,,221
+Agamemnon,participant,Iliad,9.17-28,12,direct,,,,232
+Agamemnon,participant,Iliad,9.115-161,47,direct,,,,236
+Agamemnon,participant,Iliad,9.673-675,3,direct,,,,247
+Agamemnon,participant,Iliad,10.43-59,17,direct,,,,251
+Agamemnon,participant,Iliad,10.65-71,7,direct,,,,253
+Agamemnon,participant,Iliad,10.87-101,15,direct,,,,255
+Agamemnon,participant,Iliad,10.120-127,8,direct,,,,257
+Agamemnon,participant,Iliad,10.234-239,6,direct,,,,267
+Agamemnon,participant,Iliad,11.138-142,5,direct,,,,292
+Agamemnon,participant,Iliad,11.276-279,4,direct,,,,295
+Agamemnon,participant,Iliad,14.42-51,10,direct,,,,359
+Agamemnon,participant,Iliad,14.65-81,17,direct,,,,361
+Agamemnon,participant,Iliad,14.104-108,5,direct,,,,363
+Agamemnon,participant,Iliad,19.78-144,53,direct,,,,509
+Agamemnon,participant,Iliad,19.185-197,13,direct,,,,515
+Agamemnon,participant,Iliad,19.258-265,8,direct,,prayer,,518
+Agamemnon,participant,Odyssey,11.405-434,30,embedded,Odysseus,,,959
+Agamemnon,participant,Odyssey,11.441-461,21,embedded,Odysseus,,,961
+Agamemnon,participant,Odyssey,24.36-97,59,direct,,,,1339
+Agamemnon,participant,Odyssey,24.106-119,14,direct,,,,1341
+Agamemnon,participant,Odyssey,24.192-202,11,direct,,,,1344
+"Agelaus (suitor, son of Damastor)",participant,Odyssey,20.322-337,16,direct,,,,1244
+"Agelaus (suitor, son of Damastor)",participant,Odyssey,22.132-134,3,direct,,,,1285
+"Agelaus (suitor, son of Damastor)",participant,Odyssey,22.213-223,11,direct,,,,1293
+"Agelaus (suitor, son of Damastor)",participant,Odyssey,22.248-254,7,direct,,,,1295
+Agenor,participant,Iliad,21.553-570,18,direct,,,,577
+Agenor,participant,Iliad,21.583-589,7,direct,,,,578
+Ajax (son of Oileus),participant,Iliad,12.269-276,8,direct,,collective,Ajax (son of Telamon),323
+Ajax (son of Oileus),participant,Iliad,13.68-75,8,direct,,,,332
+Ajax (son of Oileus),participant,Iliad,23.474-481,8,direct,,,,626
+Ajax (son of Oileus),participant,Iliad,23.782-783,2,direct,,,,645
+Ajax (son of Telamon),participant,Iliad,7.191-199,9,direct,,,,189
+Ajax (son of Telamon),participant,Iliad,7.226-232,7,direct,,,,191
+Ajax (son of Telamon),participant,Iliad,7.284-286,3,direct,,,,194
+Ajax (son of Telamon),participant,Iliad,9.624-642,19,direct,,,,245
+Ajax (son of Telamon),participant,Iliad,12.269-276,8,direct,,collective,Ajax (son of Oileus),323
+Ajax (son of Telamon),participant,Iliad,12.366-369,4,direct,,,,328
+Ajax (son of Telamon),participant,Iliad,13.77-80,4,direct,,,,333
+Ajax (son of Telamon),participant,Iliad,13.810-820,11,direct,,,,356
+Ajax (son of Telamon),participant,Iliad,14.470-474,5,direct,,,,383
+Ajax (son of Telamon),participant,Iliad,15.437-441,5,direct,,,,409
+Ajax (son of Telamon),participant,Iliad,15.472-477,6,direct,,,,411
+Ajax (son of Telamon),participant,Iliad,15.502-513,12,direct,,,,413
+Ajax (son of Telamon),participant,Iliad,15.561-564,4,direct,,,,415
+Ajax (son of Telamon),participant,Iliad,15.733-741,9,direct,,,,419
+Ajax (son of Telamon),participant,Iliad,17.238-245,8,direct,,,,457
+Ajax (son of Telamon),participant,Iliad,17.629-647,19,direct,,prayer,,474
+Ajax (son of Telamon),participant,Iliad,17.652-655,4,direct,,,,475
+Ajax (son of Telamon),participant,Iliad,17.716-721,6,direct,,,,479
+Ajax (son of Telamon),participant,Iliad,23.723-724,2,direct,,,,641
+Alcimedon,participant,Iliad,17.469-473,5,direct,,,,464
+Alcinous,participant,Odyssey,6.68-70,3,direct,,,,832
+Alcinous,participant,Odyssey,7.179-181,3,direct,,,,847
+Alcinous,participant,Odyssey,7.186-206,21,direct,,,,848
+Alcinous,participant,Odyssey,7.299-301,3,direct,,,,852
+Alcinous,participant,Odyssey,7.309-328,20,direct,,,,854
+Alcinous,participant,Odyssey,8.26-45,20,direct,,,,858
+Alcinous,participant,Odyssey,8.97-103,7,direct,,,,859
+Alcinous,participant,Odyssey,8.236-255,20,direct,,,,868
+Alcinous,participant,Odyssey,8.387-397,11,direct,,,,879
+Alcinous,participant,Odyssey,8.424-432,9,direct,,,,883
+Alcinous,participant,Odyssey,8.536-586,51,direct,,,,889
+Alcinous,participant,Odyssey,11.348-353,6,direct,,,,954
+Alcinous,participant,Odyssey,11.363-376,14,direct,,,,956
+Alcinous,participant,Odyssey,13.4-15,12,direct,,,,984
+Alcinous,participant,Odyssey,13.50-52,3,direct,,,,986
+Alcinous,participant,Odyssey,13.172-183,12,direct,,,,993
+Amphimedon,participant,Odyssey,24.121-190,63,direct,,,,1342
+Amphinomus,participant,Odyssey,16.355-357,3,direct,,,,1093
+Amphinomus,participant,Odyssey,16.400-405,6,direct,,,,1095
+Amphinomus,participant,Odyssey,18.122-123,2,direct,,,,1163
+Amphinomus,participant,Odyssey,18.414-421,8,direct,,,,1184
+Amphinomus,participant,Odyssey,20.245-246,2,direct,,,,1239
+Andromache,participant,Iliad,6.407-439,33,direct,,,,170
+Andromache,participant,Iliad,22.450-459,10,direct,,,,605
+Andromache,participant,Iliad,22.477-514,37,direct,,,,606
+Andromache,participant,Iliad,24.725-745,21,direct,,,,695
+Antenor,participant,Iliad,3.204-224,21,direct,,,,69
+Antenor,participant,Iliad,7.348-353,6,direct,,,,198
+Anticleia,shade,Odyssey,11.155-162,8,embedded,Odysseus,,,946
+Anticleia,shade,Odyssey,11.181-203,23,embedded,Odysseus,,,948
+Anticleia,shade,Odyssey,11.216-224,9,embedded,Odysseus,,,950
+Antilochus,participant,Iliad,18.18-21,4,direct,,,,481
+Antilochus,participant,Iliad,23.403-416,14,direct,,,,621
+Antilochus,participant,Iliad,23.543-554,12,direct,,,,630
+Antilochus,participant,Iliad,23.587-595,9,direct,,,,634
+Antilochus,participant,Iliad,23.787-792,6,direct,,,,646
+Antinous,participant,Odyssey,1.384-387,4,direct,,,,715
+Antinous,participant,Odyssey,2.85-128,37,direct,,,,721
+Antinous,participant,Odyssey,2.303-308,6,direct,,,,731
+Antinous,participant,Odyssey,4.642-647,6,direct,,,,793
+Antinous,participant,Odyssey,4.663-672,10,direct,,,,795
+Antinous,participant,Odyssey,4.774-777,4,direct,,,,804
+Antinous,participant,Odyssey,16.364-392,29,direct,,,,1094
+Antinous,participant,Odyssey,17.375-379,5,direct,,,,1126
+Antinous,participant,Odyssey,17.406-408,3,direct,,,,1130
+Antinous,participant,Odyssey,17.446-452,7,direct,,,,1132
+Antinous,participant,Odyssey,17.460-461,2,direct,,,,1134
+Antinous,participant,Odyssey,17.478-480,3,direct,,,,1136
+Antinous,participant,Odyssey,18.36-39,4,direct,,,,1155
+Antinous,participant,Odyssey,18.43-49,7,direct,,,,1156
+Antinous,participant,Odyssey,18.79-87,9,direct,,,,1160
+Antinous,participant,Odyssey,18.285-289,5,direct,,,,1174
+Antinous,participant,Odyssey,20.271-274,4,direct,,,,1241
+Antinous,participant,Odyssey,21.85-95,11,direct,,,,1251
+Antinous,participant,Odyssey,21.141-142,2,direct,,,,1254
+Antinous,participant,Odyssey,21.168-174,7,direct,,,,1256
+Antinous,participant,Odyssey,21.176-180,5,direct,,,,1257
+Antinous,participant,Odyssey,21.257-268,12,direct,,,,1263
+Antinous,participant,Odyssey,21.288-310,23,direct,,,,1265
+Arete,participant,Odyssey,7.237-239,3,direct,,,,850
+Arete,participant,Odyssey,8.443-445,3,direct,,,,884
+Arete,participant,Odyssey,11.336-341,6,direct,,,,952
+Asius (son of Hyrtacus),participant,Iliad,12.164-172,9,direct,,,,320
+Asteropaeus,participant,Iliad,21.153-160,8,direct,,,,553
+Automedon,participant,Iliad,17.475-480,6,direct,,,,465
+Automedon,participant,Iliad,17.501-506,6,direct,,,,467
+Automedon,participant,Iliad,17.508-515,8,direct,,,,468
+Automedon,participant,Iliad,17.538-539,2,direct,,,,469
+Briseis,participant,Iliad,19.287-300,14,direct,,,,520
+Calchas,participant,Iliad,1.74-83,10,direct,,,,5
+Calchas,participant,Iliad,1.93-100,8,direct,,,,7
+Calchas,participant,Iliad,2.323-329,7,embedded,Odysseus,,,51
+Cassandra,participant,Iliad,24.704-706,3,direct,,,,693
+Cebriones,participant,Iliad,11.523-530,8,direct,,,,309
+Chryses,participant,Iliad,1.17-21,5,direct,,,,1
+Chryses,participant,Iliad,1.37-42,6,direct,,prayer,,3
+Chryses,participant,Iliad,1.451-456,6,direct,,prayer,,27
+Ctesippus (suitor),participant,Odyssey,20.292-298,7,direct,,,,1242
+Deiphobus,participant,Iliad,13.414-416,3,direct,,,,347
+Deiphobus,participant,Iliad,13.463-467,5,direct,,,,349
+Diomedes,participant,Iliad,4.412-418,7,direct,,,,111
+Diomedes,participant,Iliad,5.109-110,2,direct,,,,115
+Diomedes,participant,Iliad,5.115-120,6,direct,,prayer,,116
+Diomedes,participant,Iliad,5.252-273,22,direct,,,,123
+Diomedes,participant,Iliad,5.287-289,3,direct,,,,126
+Diomedes,participant,Iliad,5.348-351,4,direct,,,,127
+Diomedes,participant,Iliad,5.601-606,6,direct,,,,139
+Diomedes,participant,Iliad,5.815-824,10,direct,,,,148
+Diomedes,participant,Iliad,6.123-143,21,direct,,,,157
+Diomedes,participant,Iliad,6.215-231,17,direct,,,,160
+Diomedes,participant,Iliad,7.400-402,3,direct,,,,202
+Diomedes,participant,Iliad,8.93-96,4,direct,,,,209
+Diomedes,participant,Iliad,8.102-111,10,direct,,,,210
+Diomedes,participant,Iliad,8.146-150,4,direct,,,,212
+Diomedes,participant,Iliad,9.32-49,18,direct,,,,233
+Diomedes,participant,Iliad,9.697-709,13,direct,,,,249
+Diomedes,participant,Iliad,10.164-167,4,direct,,,,262
+Diomedes,participant,Iliad,10.220-226,7,direct,,,,266
+Diomedes,participant,Iliad,10.242-247,6,direct,,,,268
+Diomedes,participant,Iliad,10.284-294,11,direct,,prayer,,271
+Diomedes,participant,Iliad,10.370-371,2,direct,,,,276
+Diomedes,participant,Iliad,10.447-453,7,direct,,,,284
+Diomedes,participant,Iliad,11.317-319,3,direct,,,,298
+Diomedes,participant,Iliad,11.347-348,2,direct,,,,299
+Diomedes,participant,Iliad,11.362-367,6,direct,,,,300
+Diomedes,participant,Iliad,11.385-395,11,direct,,,,302
+Diomedes,participant,Iliad,14.110-132,23,direct,,,,364
+Dolius,participant,Odyssey,24.400-405,6,direct,,,,1357
+Dolon,participant,Iliad,10.319-327,9,direct,,,,273
+Dolon,participant,Iliad,10.378-381,4,direct,,,,277
+Dolon,participant,Iliad,10.391-399,9,direct,,,,279
+Dolon,participant,Iliad,10.413-422,10,direct,,,,281
+Dolon,participant,Iliad,10.427-445,19,direct,,,,283
+Echeneus,participant,Odyssey,7.159-166,8,direct,,,,846
+Echeneus,participant,Odyssey,11.344-346,3,direct,,,,953
+Elpenor,participant,Odyssey,11.60-78,19,embedded,Odysseus,,,940
+Epeius,participant,Iliad,23.667-675,9,direct,,,,639
+Eteoneus,participant,Odyssey,4.26-29,4,direct,,,,760
+Eumaeus,participant,Odyssey,14.37-47,11,direct,,,,1008
+Eumaeus,participant,Odyssey,14.56-71,16,direct,,,,1010
+Eumaeus,participant,Odyssey,14.80-108,29,direct,,,,1011
+Eumaeus,participant,Odyssey,14.122-147,26,direct,,,,1013
+Eumaeus,participant,Odyssey,14.166-190,25,direct,,,,1015
+Eumaeus,participant,Odyssey,14.361-389,29,direct,,,,1017
+Eumaeus,participant,Odyssey,14.402-408,7,direct,,,,1019
+Eumaeus,participant,Odyssey,14.414-417,4,direct,,,,1020
+Eumaeus,participant,Odyssey,14.443-445,3,direct,,,,1022
+Eumaeus,participant,Odyssey,14.508-517,10,direct,,,,1027
+Eumaeus,participant,Odyssey,15.326-339,14,direct,,,,1049
+Eumaeus,participant,Odyssey,15.352-379,28,direct,,,,1051
+Eumaeus,participant,Odyssey,15.390-484,71,direct,,,,1053
+Eumaeus,participant,Odyssey,16.23-29,7,direct,,,,1067
+Eumaeus,participant,Odyssey,16.37-39,3,direct,,,,1069
+Eumaeus,participant,Odyssey,16.61-67,7,direct,,lie,,1072
+Eumaeus,participant,Odyssey,16.136-145,10,direct,,,,1076
+Eumaeus,participant,Odyssey,16.465-475,11,direct,,,,1099
+Eumaeus,participant,Odyssey,17.185-191,7,direct,,,,1112
+Eumaeus,participant,Odyssey,17.240-246,7,direct,,prayer,,1115
+Eumaeus,participant,Odyssey,17.273-279,7,direct,,,,1118
+Eumaeus,participant,Odyssey,17.312-323,12,direct,,,,1121
+Eumaeus,participant,Odyssey,17.350-352,3,direct,,,,1123
+Eumaeus,participant,Odyssey,17.381-391,11,direct,,,,1127
+Eumaeus,participant,Odyssey,17.513-527,15,direct,,,,1142
+Eumaeus,participant,Odyssey,17.553-559,7,direct,,,,1145
+Eumaeus,participant,Odyssey,17.580-584,5,direct,,,,1148
+Eumaeus,participant,Odyssey,17.593-597,5,direct,,,,1150
+Eumaeus,participant,Odyssey,20.166-167,2,direct,,,,1232
+Eumaeus,participant,Odyssey,21.381-385,5,direct,,,,1273
+Eumaeus,participant,Odyssey,22.164-169,6,direct,,,,1289
+Eumaeus,participant,Odyssey,22.195-199,5,direct,,,,1291
+Eupeithes,participant,Odyssey,24.426-437,12,direct,,,,1359
+Euphorbus,participant,Iliad,17.12-17,6,direct,,,,446
+Euphorbus,participant,Iliad,17.34-42,9,direct,,,,448
+Euryalus (Phaeacian),participant,Odyssey,8.141-142,2,direct,,,,861
+Euryalus (Phaeacian),participant,Odyssey,8.159-164,6,direct,,,,864
+Euryalus (Phaeacian),participant,Odyssey,8.401-405,5,direct,,,,880
+Euryalus (Phaeacian),participant,Odyssey,8.408-411,4,direct,,,,881
+Eurycleia,participant,Odyssey,2.363-370,8,direct,,,,736
+Eurycleia,participant,Odyssey,4.743-757,15,direct,,,,801
+Eurycleia,participant,Odyssey,19.22-25,4,direct,,,,1188
+Eurycleia,participant,Odyssey,19.363-381,19,direct,,,,1208
+Eurycleia,participant,Odyssey,19.403-404,2,direct,,,,1210
+Eurycleia,participant,Odyssey,19.474-475,2,direct,,,,1212
+Eurycleia,participant,Odyssey,19.492-498,7,direct,,,,1214
+Eurycleia,participant,Odyssey,20.135-143,9,direct,,,,1230
+Eurycleia,participant,Odyssey,20.149-156,8,direct,,,,1231
+Eurycleia,participant,Odyssey,22.420-429,10,direct,,,,1308
+Eurycleia,participant,Odyssey,22.486-489,4,direct,,,,1313
+Eurycleia,participant,Odyssey,23.5-9,5,direct,,,,1315
+Eurycleia,participant,Odyssey,23.26-31,6,direct,,,,1317
+Eurycleia,participant,Odyssey,23.40-57,17,direct,,,,1319
+Eurycleia,participant,Odyssey,23.70-79,10,direct,,,,1321
+Eurylochus,participant,Odyssey,10.251-260,10,embedded,Odysseus,,,917
+Eurylochus,participant,Odyssey,10.266-269,4,embedded,Odysseus,,,918
+Eurylochus,participant,Odyssey,10.431-437,7,embedded,Odysseus,,,929
+Eurylochus,participant,Odyssey,12.279-293,15,embedded,Odysseus,,,977
+Eurylochus,participant,Odyssey,12.340-351,12,embedded,Odysseus,,,980
+Eurymachus,participant,Odyssey,1.400-411,12,direct,,,,717
+Eurymachus,participant,Odyssey,2.178-207,30,direct,,,,725
+Eurymachus,participant,Odyssey,16.346-350,5,direct,,,,1092
+Eurymachus,participant,Odyssey,16.435-447,13,direct,,,,1097
+Eurymachus,participant,Odyssey,18.245-249,5,direct,,,,1171
+Eurymachus,participant,Odyssey,18.351-355,5,direct,,,,1178
+Eurymachus,participant,Odyssey,18.357-364,8,direct,,,,1179
+Eurymachus,participant,Odyssey,18.389-393,5,direct,,,,1181
+Eurymachus,participant,Odyssey,20.360-362,3,direct,,,,1247
+Eurymachus,participant,Odyssey,21.249-255,7,direct,,,,1262
+Eurymachus,participant,Odyssey,21.321-329,5,direct,,,,1267
+Eurymachus,participant,Odyssey,22.45-59,15,direct,,,,1280
+Eurymachus,participant,Odyssey,22.70-78,9,direct,,,,1282
+Eurynome (housekeeper),participant,Odyssey,17.496-497,2,direct,,,,1139
+Eurynome (housekeeper),participant,Odyssey,18.170-176,7,direct,,,,1166
+Eurypylus (son of Euaemon),participant,Iliad,11.587-591,5,direct,,,,310
+Eurypylus (son of Euaemon),participant,Iliad,11.823-836,14,direct,,,,317
+Glaucus (son of Hippolochus),participant,Iliad,6.145-211,65,direct,,,,158
+Glaucus (son of Hippolochus),participant,Iliad,16.514-526,13,direct,,prayer,,432
+Glaucus (son of Hippolochus),participant,Iliad,16.538-547,10,direct,,,,433
+Glaucus (son of Hippolochus),participant,Iliad,17.142-168,27,direct,,,,452
+Halitherses,participant,Odyssey,2.161-176,16,direct,,,,724
+Halitherses,participant,Odyssey,24.454-462,9,direct,,,,1361
+Hector,participant,Iliad,3.39-57,19,direct,,,,57
+Hector,participant,Iliad,3.86-94,9,direct,,,,60
+Hector,participant,Iliad,6.111-115,5,direct,,,,156
+Hector,participant,Iliad,6.264-285,22,direct,,,,162
+Hector,participant,Iliad,6.326-331,6,direct,,,,164
+Hector,participant,Iliad,6.360-368,9,direct,,,,167
+Hector,participant,Iliad,6.376-380,5,direct,,,,168
+Hector,participant,Iliad,6.441-465,23,direct,,,,171
+Hector,participant,Iliad,6.476-481,5,direct,,prayer,,173
+Hector,participant,Iliad,6.486-493,8,direct,,,,175
+Hector,participant,Iliad,6.521-529,9,direct,,,,177
+Hector,participant,Iliad,7.67-91,23,direct,,,,182
+Hector,participant,Iliad,7.234-243,10,direct,,,,192
+Hector,participant,Iliad,7.288-302,13,direct,,,,195
+Hector,participant,Iliad,8.149,1,embedded,Diomedes,,,213
+Hector,participant,Iliad,8.161-166,6,direct,,,,215
+Hector,participant,Iliad,8.173-183,11,direct,,,,216
+Hector,participant,Iliad,8.185-197,13,direct,,,,217
+Hector,participant,Iliad,8.497-541,45,direct,,,,231
+Hector,participant,Iliad,10.303-312,10,direct,,,,272
+Hector,participant,Iliad,10.329-331,3,direct,,,,274
+Hector,participant,Iliad,11.286-290,5,direct,,,,296
+Hector,participant,Iliad,12.231-250,20,direct,,,,322
+Hector,participant,Iliad,12.440-441,2,direct,,,,330
+Hector,participant,Iliad,13.150-154,5,direct,,,,335
+Hector,participant,Iliad,13.751-753,3,direct,,,,353
+Hector,participant,Iliad,13.769-773,5,direct,,,,354
+Hector,participant,Iliad,13.824-832,9,direct,,,,357
+Hector,participant,Iliad,15.247-252,6,direct,,,,402
+Hector,participant,Iliad,15.347-351,5,direct,,,,405
+Hector,participant,Iliad,15.425-428,4,direct,,,,408
+Hector,participant,Iliad,15.486-499,14,direct,,,,412
+Hector,participant,Iliad,15.553-558,6,direct,,,,414
+Hector,participant,Iliad,15.718-725,8,direct,,,,418
+Hector,participant,Iliad,16.830-842,10,direct,,,,442
+Hector,participant,Iliad,16.859-861,3,direct,,,,445
+Hector,participant,Iliad,17.170-182,13,direct,,,,453
+Hector,participant,Iliad,17.184-187,4,direct,,,,454
+Hector,participant,Iliad,17.220-232,13,direct,,,,456
+Hector,participant,Iliad,17.485-490,6,direct,,,,466
+Hector,participant,Iliad,18.285-309,25,direct,,,,495
+Hector,participant,Iliad,20.366-372,7,direct,,,,541
+Hector,participant,Iliad,20.431-437,7,direct,,,,546
+Hector,participant,Iliad,22.99-130,31,direct,,,,583
+Hector,participant,Iliad,22.233-237,5,direct,,,,590
+Hector,participant,Iliad,22.250-259,10,direct,,,,592
+Hector,participant,Iliad,22.279-288,10,direct,,,,594
+Hector,participant,Iliad,22.297-305,9,direct,,,,595
+Hector,participant,Iliad,22.338-343,6,direct,,,,597
+Hector,participant,Iliad,22.356-360,5,direct,,,,599
+Hecuba,participant,Iliad,6.254-262,9,direct,,,,161
+Hecuba,participant,Iliad,22.82-89,8,direct,,,,582
+Hecuba,participant,Iliad,22.431-436,6,direct,,,,604
+Hecuba,participant,Iliad,24.201-216,16,direct,,,,663
+Hecuba,participant,Iliad,24.287-298,12,direct,,,,667
+Hecuba,participant,Iliad,24.748-759,12,direct,,,,696
+Helen,participant,Iliad,3.172-180,9,direct,,,,65
+Helen,participant,Iliad,3.200-202,3,direct,,,,68
+Helen,participant,Iliad,3.229-242,14,direct,,,,71
+Helen,participant,Iliad,3.399-412,14,direct,,,,80
+Helen,participant,Iliad,3.428-436,9,direct,,,,82
+Helen,participant,Iliad,6.344-358,15,direct,,,,166
+Helen,participant,Iliad,24.762-775,14,direct,,,,697
+Helen,participant,Odyssey,4.138-146,9,direct,,,,765
+Helen,participant,Odyssey,4.235-264,30,direct,,,,771
+Helen,participant,Odyssey,15.125-129,5,direct,,,,1035
+Helen,participant,Odyssey,15.172-178,7,direct,,,,1039
+Helenus (son of Priam),participant,Iliad,6.77-101,25,direct,,,,155
+Helenus (son of Priam),participant,Iliad,7.47-53,7,direct,,,,181
+Heracles,shade,Odyssey,11.617-626,10,embedded,Odysseus,,,968
+Hippolochus (son of Antimachus),participant,Iliad,11.131-135,5,direct,,collective,Peisander (son of Antimachus),291
+Idaeus (herald),participant,Iliad,3.250-258,9,direct,,,,72
+Idaeus (herald),participant,Iliad,7.279-282,4,direct,,,,193
+Idaeus (herald),participant,Iliad,7.385-397,13,direct,,,,201
+Idaeus (herald),participant,Iliad,24.354-357,4,direct,,,,671
+Idomeneus,participant,Iliad,4.266-271,6,direct,,,,101
+Idomeneus,participant,Iliad,11.511-515,5,direct,,,,308
+Idomeneus,participant,Iliad,13.222-230,9,direct,,,,337
+Idomeneus,participant,Iliad,13.249-253,5,direct,,,,339
+Idomeneus,participant,Iliad,13.260-265,6,direct,,,,341
+Idomeneus,participant,Iliad,13.275-294,20,direct,,,,343
+Idomeneus,participant,Iliad,13.312-327,16,direct,,,,345
+Idomeneus,participant,Iliad,13.374-382,9,direct,,,,346
+Idomeneus,participant,Iliad,13.446-454,9,direct,,,,348
+Idomeneus,participant,Iliad,13.481-486,6,direct,,,,350
+Idomeneus,participant,Iliad,23.457-472,16,direct,,,,625
+Idomeneus,participant,Iliad,23.483-487,5,direct,,,,627
+Irus,participant,Odyssey,18.10-13,4,direct,,,,1152
+Irus,participant,Odyssey,18.26-31,6,direct,,,,1154
+Laertes,participant,Odyssey,24.281-301,21,direct,,,,1347
+Laertes,participant,Odyssey,24.328-329,2,direct,,,,1350
+Laertes,participant,Odyssey,24.351-355,5,direct,,,,1352
+Laertes,participant,Odyssey,24.376-382,7,direct,,,,1355
+Laertes,participant,Odyssey,24.514-515,2,direct,,,,1368
+Laodamas (son of Alcinous),participant,Odyssey,8.133-139,7,direct,,,,860
+Laodamas (son of Alcinous),participant,Odyssey,8.145-151,7,direct,,,,862
+Leiocritus (suitor),participant,Odyssey,2.243-256,14,direct,,,,728
+Leiodes,participant,Odyssey,21.152-162,11,direct,,,,1255
+Leiodes,participant,Odyssey,22.312-319,8,direct,,,,1298
+Lycaon (son of Priam),participant,Iliad,21.74-96,23,direct,,,,549
+"Medon (herald, Od)",participant,Odyssey,4.697-702,6,direct,,,,797
+"Medon (herald, Od)",participant,Odyssey,4.712-714,3,direct,,,,799
+"Medon (herald, Od)",participant,Odyssey,17.174-176,3,direct,,,,1111
+"Medon (herald, Od)",participant,Odyssey,22.367-370,4,direct,,,,1303
+"Medon (herald, Od)",participant,Odyssey,24.443-449,7,direct,,,,1360
+Melanthius (goatherd),participant,Odyssey,17.217-232,16,direct,,,,1114
+Melanthius (goatherd),participant,Odyssey,17.248-253,6,direct,,,,1116
+Melanthius (goatherd),participant,Odyssey,17.370-373,4,direct,,,,1125
+Melanthius (goatherd),participant,Odyssey,20.178-182,5,direct,,,,1234
+Melanthius (goatherd),participant,Odyssey,22.136-141,6,direct,,,,1286
+Melantho,participant,Odyssey,18.327-336,10,direct,,,,1176
+Melantho,participant,Odyssey,19.66-69,4,direct,,,,1192
+Menelaus,participant,Iliad,3.97-110,14,direct,,,,61
+Menelaus,participant,Iliad,3.351-354,4,direct,,prayer,,77
+Menelaus,participant,Iliad,3.365-368,4,direct,,,,78
+Menelaus,participant,Iliad,4.184-187,4,direct,,,,94
+Menelaus,participant,Iliad,7.96-102,7,direct,,,,184
+Menelaus,participant,Iliad,10.37-41,5,direct,,,,250
+Menelaus,participant,Iliad,10.61-63,3,direct,,,,252
+Menelaus,participant,Iliad,11.465-471,7,direct,,,,307
+Menelaus,participant,Iliad,13.620-639,20,direct,,,,351
+Menelaus,participant,Iliad,15.569-571,3,direct,,,,416
+Menelaus,participant,Iliad,17.19-32,14,direct,,,,447
+Menelaus,participant,Iliad,17.91-105,15,direct,,,,450
+Menelaus,participant,Iliad,17.120-122,3,direct,,,,451
+Menelaus,participant,Iliad,17.248-255,8,direct,,,,458
+Menelaus,participant,Iliad,17.561-566,6,direct,,prayer,,471
+Menelaus,participant,Iliad,17.669-672,4,direct,,,,476
+Menelaus,participant,Iliad,17.685-693,9,direct,,,,477
+Menelaus,participant,Iliad,17.708-714,7,direct,,,,478
+Menelaus,participant,Iliad,23.426-428,3,direct,,,,622
+Menelaus,participant,Iliad,23.439-441,3,direct,,,,623
+Menelaus,participant,Iliad,23.443-445,3,direct,,,,624
+Menelaus,participant,Iliad,23.570-585,13,direct,,,,632
+Menelaus,participant,Iliad,23.602-611,10,direct,,,,635
+Menelaus,participant,Odyssey,4.31-36,6,direct,,,,761
+Menelaus,participant,Odyssey,4.60-64,5,direct,,,,762
+Menelaus,participant,Odyssey,4.78-112,35,direct,,,,764
+Menelaus,participant,Odyssey,4.148-154,7,direct,,,,766
+Menelaus,participant,Odyssey,4.169-182,14,direct,,,,768
+Menelaus,participant,Odyssey,4.204-215,12,direct,,,,770
+Menelaus,participant,Odyssey,4.266-289,24,direct,,,,772
+Menelaus,participant,Odyssey,4.312-314,3,direct,,,,774
+Menelaus,participant,Odyssey,4.333-592,118,direct,,,,776
+Menelaus,participant,Odyssey,4.376-381,6,embedded,Menelaus,,,778
+Menelaus,participant,Odyssey,4.395-397,3,embedded,Menelaus,,,780
+Menelaus,participant,Odyssey,4.465-470,6,embedded,Menelaus,,,783
+Menelaus,participant,Odyssey,4.485-490,6,embedded,Menelaus,,,785
+Menelaus,participant,Odyssey,4.551-553,3,embedded,Menelaus,,,788
+Menelaus,participant,Odyssey,4.611-619,9,direct,,,,791
+Menelaus,participant,Odyssey,15.68-85,18,direct,,,,1032
+Menelaus,participant,Odyssey,15.111-119,9,direct,,,,1034
+Menelaus,participant,Odyssey,15.151-153,3,direct,,,,1036
+Menelaus,participant,Odyssey,17.124-146,23,embedded,Telemachus,,,1108
+Menestheus,participant,Iliad,12.343-350,8,direct,,,,326
+Mentor (Ithacan),participant,Odyssey,2.229-241,13,direct,,,,727
+Meriones,participant,Iliad,13.255-258,4,direct,,,,340
+Meriones,participant,Iliad,13.267-273,7,direct,,,,342
+Meriones,participant,Iliad,13.307-310,4,direct,,,,344
+Meriones,participant,Iliad,16.620-625,6,direct,,,,436
+Meriones,participant,Iliad,17.622-623,2,direct,,,,473
+Nausicaa,participant,Odyssey,6.57-65,9,direct,,,,831
+Nausicaa,participant,Odyssey,6.187-197,11,direct,,,,835
+Nausicaa,participant,Odyssey,6.199-210,12,direct,,,,836
+Nausicaa,participant,Odyssey,6.239-246,8,direct,,,,838
+Nausicaa,participant,Odyssey,6.255-315,52,direct,,,,839
+Nausicaa,participant,Odyssey,8.461-462,2,direct,,,,885
+Nestor,participant,Iliad,1.254-284,31,direct,,,,17
+Nestor,participant,Iliad,2.79-83,5,direct,,,,41
+Nestor,participant,Iliad,2.337-368,32,direct,,,,52
+Nestor,participant,Iliad,2.434-440,7,direct,,,,55
+Nestor,participant,Iliad,4.303-309,7,direct,,,,103
+Nestor,participant,Iliad,4.318-325,8,direct,,,,105
+Nestor,participant,Iliad,6.67-71,5,direct,,,,154
+Nestor,participant,Iliad,7.124-160,37,direct,,,,186
+Nestor,participant,Iliad,7.171-174,4,direct,,,,187
+Nestor,participant,Iliad,7.327-343,17,direct,,,,197
+Nestor,participant,Iliad,8.139-144,6,direct,,,,211
+Nestor,participant,Iliad,8.152-156,5,direct,,,,214
+Nestor,participant,Iliad,9.53-78,26,direct,,,,234
+Nestor,participant,Iliad,9.96-113,18,direct,,,,235
+Nestor,participant,Iliad,9.163-172,10,direct,,,,237
+Nestor,participant,Iliad,10.82-85,4,direct,,,,254
+Nestor,participant,Iliad,10.103-118,16,direct,,,,256
+Nestor,participant,Iliad,10.129-130,2,direct,,,,258
+Nestor,participant,Iliad,10.144-147,4,direct,,,,260
+Nestor,participant,Iliad,10.159-161,3,direct,,,,261
+Nestor,participant,Iliad,10.169-176,8,direct,,,,263
+Nestor,participant,Iliad,10.192-193,2,direct,,,,264
+Nestor,participant,Iliad,10.204-217,14,direct,,,,265
+Nestor,participant,Iliad,10.533-539,7,direct,,,,288
+Nestor,participant,Iliad,10.544-553,10,direct,,,,289
+Nestor,participant,Iliad,11.656-803,144,direct,,,,314
+Nestor,participant,Iliad,14.3-8,6,direct,,,,358
+Nestor,participant,Iliad,14.53-63,11,direct,,,,360
+Nestor,participant,Iliad,15.372-376,5,direct,,prayer,,406
+Nestor,participant,Iliad,15.661-666,6,direct,,,,417
+Nestor,participant,Iliad,23.306-348,43,direct,,,,620
+Nestor,participant,Iliad,23.626-650,25,direct,,,,637
+Nestor,participant,Odyssey,3.69-74,6,direct,,,,745
+Nestor,participant,Odyssey,3.103-200,98,direct,,,,747
+Nestor,participant,Odyssey,3.211-224,14,direct,,,,749
+Nestor,participant,Odyssey,3.254-328,75,direct,,,,753
+Nestor,participant,Odyssey,3.346-355,10,direct,,,,755
+Nestor,participant,Odyssey,3.375-384,10,direct,,prayer,,757
+Nestor,participant,Odyssey,3.418-429,12,direct,,,,758
+Nestor,participant,Odyssey,3.475-476,2,direct,,,,759
+Nestor,participant,Odyssey,24.54-56,3,embedded,Agamemnon,,,1340
+Noemon (son of Phronius),participant,Odyssey,4.632-637,6,direct,,,,792
+Noemon (son of Phronius),participant,Odyssey,4.649-656,8,direct,,,,794
+Odysseus,participant,Iliad,1.442-445,4,direct,,,,26
+Odysseus,participant,Iliad,2.190-197,8,direct,,,,45
+Odysseus,participant,Iliad,2.200-206,7,direct,,,,46
+Odysseus,participant,Iliad,2.246-264,19,direct,,,,48
+Odysseus,participant,Iliad,2.284-332,42,direct,,,,50
+Odysseus,participant,Iliad,4.350-355,6,direct,,,,107
+Odysseus,participant,Iliad,9.225-306,77,direct,,,,240
+Odysseus,participant,Iliad,9.677-692,13,direct,,,,248
+Odysseus,participant,Iliad,10.141-142,2,direct,,,,259
+Odysseus,participant,Iliad,10.249-253,5,direct,,,,269
+Odysseus,participant,Iliad,10.278-282,5,direct,,prayer,,270
+Odysseus,participant,Iliad,10.341-348,8,direct,,,,275
+Odysseus,participant,Iliad,10.383-389,7,direct,,,,278
+Odysseus,participant,Iliad,10.401-411,11,direct,,,,280
+Odysseus,participant,Iliad,10.424-425,2,direct,,,,282
+Odysseus,participant,Iliad,10.462-464,3,direct,,prayer,,285
+Odysseus,participant,Iliad,10.477-481,5,direct,,,,286
+Odysseus,participant,Iliad,10.555-563,9,direct,,,,290
+Odysseus,participant,Iliad,11.313-315,3,direct,,,,297
+Odysseus,participant,Iliad,11.404-410,7,direct,,,,303
+Odysseus,participant,Iliad,11.441-445,5,direct,,,,305
+Odysseus,participant,Iliad,11.450-455,6,direct,,,,306
+Odysseus,participant,Iliad,14.83-102,20,direct,,,,362
+Odysseus,participant,Iliad,19.155-183,29,direct,,,,514
+Odysseus,participant,Iliad,19.216-237,22,direct,,,,517
+Odysseus,participant,Iliad,23.770,1,direct,,prayer,,644
+Odysseus,participant,Odyssey,5.173-179,7,direct,,,,818
+Odysseus,participant,Odyssey,5.215-224,10,direct,,,,821
+Odysseus,participant,Odyssey,5.299-312,14,direct,,,,823
+Odysseus,participant,Odyssey,5.356-364,9,direct,,,,825
+Odysseus,participant,Odyssey,5.408-423,16,direct,,,,827
+Odysseus,participant,Odyssey,5.445-450,6,direct,,prayer,,828
+Odysseus,participant,Odyssey,5.465-473,9,direct,,,,829
+Odysseus,participant,Odyssey,6.119-126,8,direct,,,,833
+Odysseus,participant,Odyssey,6.149-185,37,direct,,,,834
+Odysseus,participant,Odyssey,6.218-222,5,direct,,,,837
+Odysseus,participant,Odyssey,6.324-327,4,direct,,prayer,,841
+Odysseus,participant,Odyssey,7.22-26,5,direct,,,,842
+Odysseus,participant,Odyssey,7.146-152,7,direct,,,,845
+Odysseus,participant,Odyssey,7.208-225,18,direct,,,,849
+Odysseus,participant,Odyssey,7.241-297,57,direct,,,,851
+Odysseus,participant,Odyssey,7.303-307,5,direct,,,,853
+Odysseus,participant,Odyssey,7.331-333,3,direct,,prayer,,855
+Odysseus,participant,Odyssey,8.153-157,5,direct,,,,863
+Odysseus,participant,Odyssey,8.166-185,20,direct,,,,865
+Odysseus,participant,Odyssey,8.202-233,32,direct,,,,867
+Odysseus,participant,Odyssey,8.382-384,3,direct,,,,878
+Odysseus,participant,Odyssey,8.413-415,3,direct,,,,882
+Odysseus,participant,Odyssey,8.464-468,5,direct,,,,886
+Odysseus,participant,Odyssey,8.477-481,5,direct,,,,887
+Odysseus,participant,Odyssey,8.487-498,12,direct,,,,888
+Odysseus,participant,Odyssey,9.2-11.332,1023,direct,,,,890
+Odysseus,participant,Odyssey,9.172-176,5,embedded,Odysseus,,,891
+Odysseus,participant,Odyssey,9.259-271,13,embedded,Odysseus,,,893
+Odysseus,participant,Odyssey,9.283-286,4,embedded,Odysseus,,,895
+Odysseus,participant,Odyssey,9.347-352,6,embedded,Odysseus,,,896
+Odysseus,participant,Odyssey,9.364-367,4,embedded,Odysseus,,,898
+Odysseus,participant,Odyssey,9.475-479,5,embedded,Odysseus,,,904
+Odysseus,participant,Odyssey,9.502-505,4,embedded,Odysseus,,,906
+Odysseus,participant,Odyssey,9.523-525,3,embedded,Odysseus,,,908
+Odysseus,participant,Odyssey,10.68-69,2,embedded,Odysseus,,,912
+Odysseus,participant,Odyssey,10.174-177,4,embedded,Odysseus,,,914
+Odysseus,participant,Odyssey,10.189-197,9,embedded,Odysseus,,,915
+Odysseus,participant,Odyssey,10.271-273,3,embedded,Odysseus,,,919
+Odysseus,participant,Odyssey,10.337-344,8,embedded,Odysseus,,,923
+Odysseus,participant,Odyssey,10.383-387,5,embedded,Odysseus,,,925
+Odysseus,participant,Odyssey,10.423-427,5,embedded,Odysseus,,,928
+Odysseus,participant,Odyssey,10.483-486,4,embedded,Odysseus,,,933
+Odysseus,participant,Odyssey,10.501-502,2,embedded,Odysseus,,,935
+Odysseus,participant,Odyssey,10.548-549,2,embedded,Odysseus,,,937
+Odysseus,participant,Odyssey,10.562-565,4,embedded,Odysseus,,,938
+Odysseus,participant,Odyssey,11.57-58,2,embedded,Odysseus,,,939
+Odysseus,participant,Odyssey,11.80,1,embedded,Odysseus,,,941
+Odysseus,participant,Odyssey,11.139-144,6,embedded,Odysseus,,,944
+Odysseus,participant,Odyssey,11.164-179,16,embedded,Odysseus,,,947
+Odysseus,participant,Odyssey,11.210-214,5,embedded,Odysseus,,,949
+Odysseus,participant,Odyssey,11.355-361,7,direct,,,,955
+Odysseus,participant,Odyssey,11.378-12.453,370,direct,,,,957
+Odysseus,participant,Odyssey,11.397-403,7,embedded,Odysseus,,,958
+Odysseus,participant,Odyssey,11.436-439,4,embedded,Odysseus,,,960
+Odysseus,participant,Odyssey,11.463-464,2,embedded,Odysseus,,,962
+Odysseus,participant,Odyssey,11.478-486,9,embedded,Odysseus,,,964
+Odysseus,participant,Odyssey,11.505-537,33,embedded,Odysseus,,,966
+Odysseus,participant,Odyssey,11.553-562,10,embedded,Odysseus,,,967
+Odysseus,participant,Odyssey,12.112-114,3,embedded,Odysseus,,,971
+Odysseus,participant,Odyssey,12.154-164,11,embedded,Odysseus,,,973
+Odysseus,participant,Odyssey,12.208-221,14,embedded,Odysseus,,,975
+Odysseus,participant,Odyssey,12.271-276,6,embedded,Odysseus,,,976
+Odysseus,participant,Odyssey,12.297-302,6,embedded,Odysseus,,,978
+Odysseus,participant,Odyssey,12.320-323,4,embedded,Odysseus,,,979
+Odysseus,participant,Odyssey,12.371-373,3,embedded,Odysseus,prayer,,981
+Odysseus,participant,Odyssey,13.38-46,9,direct,,,,985
+Odysseus,participant,Odyssey,13.59-62,4,direct,,,,987
+Odysseus,participant,Odyssey,13.200-216,17,direct,,,,994
+Odysseus,participant,Odyssey,13.228-235,8,direct,,,,995
+Odysseus,participant,Odyssey,13.256-286,31,direct,,lie,,997
+Odysseus,participant,Odyssey,13.312-328,17,direct,,,,999
+Odysseus,participant,Odyssey,13.356-360,5,direct,,prayer,,1001
+Odysseus,participant,Odyssey,13.383-391,9,direct,,,,1004
+Odysseus,participant,Odyssey,13.417-419,3,direct,,,,1006
+Odysseus,participant,Odyssey,14.53-54,2,direct,,,,1009
+Odysseus,participant,Odyssey,14.115-120,6,direct,,,,1012
+Odysseus,participant,Odyssey,14.149-164,16,direct,,,,1014
+Odysseus,participant,Odyssey,14.192-359,168,direct,,lie,,1016
+Odysseus,participant,Odyssey,14.391-400,10,direct,,,,1018
+Odysseus,participant,Odyssey,14.440-441,2,direct,,,,1021
+Odysseus,participant,Odyssey,14.462-506,36,direct,,lie,,1023
+Odysseus,participant,Odyssey,14.493,1,embedded,Odysseus,lie,,1025
+Odysseus,participant,Odyssey,14.495-498,4,embedded,Odysseus,lie,,1026
+Odysseus,participant,Odyssey,15.307-324,18,direct,,disguised:beggar,,1048
+Odysseus,participant,Odyssey,15.341-350,10,direct,,disguised:beggar,,1050
+Odysseus,participant,Odyssey,15.381-388,8,direct,,disguised:beggar,,1052
+Odysseus,participant,Odyssey,15.486-492,7,direct,,disguised:beggar,,1058
+Odysseus,participant,Odyssey,16.8-10,3,direct,,disguised:beggar,,1066
+Odysseus,participant,Odyssey,16.91-111,20,direct,,disguised:beggar,,1074
+Odysseus,participant,Odyssey,16.187-189,3,direct,,,,1080
+Odysseus,participant,Odyssey,16.202-212,11,direct,,,,1082
+Odysseus,participant,Odyssey,16.226-239,14,direct,,,,1084
+Odysseus,participant,Odyssey,16.259-261,3,direct,,,,1086
+Odysseus,participant,Odyssey,16.267-307,34,direct,,,,1088
+Odysseus,participant,Odyssey,17.17-25,9,direct,,disguised:beggar,,1101
+Odysseus,participant,Odyssey,17.193-196,4,direct,,disguised:beggar,,1113
+Odysseus,participant,Odyssey,17.264-271,8,direct,,disguised:beggar,,1117
+Odysseus,participant,Odyssey,17.281-289,9,direct,,disguised:beggar,,1119
+Odysseus,participant,Odyssey,17.306-310,5,direct,,disguised:beggar,,1120
+Odysseus,participant,Odyssey,17.354-355,2,direct,,prayer disguised:beggar,,1124
+Odysseus,participant,Odyssey,17.415-444,30,direct,,lie disguised:beggar,,1131
+Odysseus,participant,Odyssey,17.454-457,4,direct,,disguised:beggar,,1133
+Odysseus,participant,Odyssey,17.468-476,9,direct,,disguised:beggar,,1135
+Odysseus,participant,Odyssey,17.561-573,13,direct,,disguised:beggar,,1146
+Odysseus,participant,Odyssey,18.15-24,10,direct,,disguised:beggar,,1153
+Odysseus,participant,Odyssey,18.52-57,6,direct,,disguised:beggar,,1157
+Odysseus,participant,Odyssey,18.105-107,3,direct,,disguised:beggar,,1161
+Odysseus,participant,Odyssey,18.125-150,26,direct,,lie disguised:beggar,,1164
+Odysseus,participant,Odyssey,18.259-270,12,embedded,Penelope,,,1173
+Odysseus,participant,Odyssey,18.313-319,7,direct,,disguised:beggar,,1175
+Odysseus,participant,Odyssey,18.338-339,2,direct,,disguised:beggar,,1177
+Odysseus,participant,Odyssey,18.366-386,21,direct,,disguised:beggar,,1180
+Odysseus,participant,Odyssey,19.4-13,3,direct,,,,1185
+Odysseus,participant,Odyssey,19.42-46,5,direct,,,,1191
+Odysseus,participant,Odyssey,19.71-88,18,direct,,lie,,1193
+Odysseus,participant,Odyssey,19.107-122,16,direct,,,,1197
+Odysseus,participant,Odyssey,19.165-202,38,direct,,lie,,1200
+Odysseus,participant,Odyssey,19.221-248,28,direct,,lie,,1202
+Odysseus,participant,Odyssey,19.262-307,46,direct,,lie,,1204
+Odysseus,participant,Odyssey,19.336-348,13,direct,,lie,,1206
+Odysseus,participant,Odyssey,19.383-385,3,direct,,,,1209
+Odysseus,participant,Odyssey,19.482-490,9,direct,,,,1213
+Odysseus,participant,Odyssey,19.500-502,3,direct,,,,1215
+Odysseus,participant,Odyssey,19.555-558,4,direct,,,,1218
+Odysseus,participant,Odyssey,19.583-587,5,direct,,,,1220
+Odysseus,participant,Odyssey,20.18-21,4,direct,,,,1222
+Odysseus,participant,Odyssey,20.37-43,7,direct,,,,1224
+Odysseus,participant,Odyssey,20.98-101,4,direct,,prayer,,1227
+Odysseus,participant,Odyssey,20.169-171,3,direct,,,,1233
+Odysseus,participant,Odyssey,20.227-234,8,direct,,,,1237
+Odysseus,participant,Odyssey,21.193-198,6,direct,,,,1258
+Odysseus,participant,Odyssey,21.207-220,14,direct,,,,1260
+Odysseus,participant,Odyssey,21.228-241,14,direct,,,,1261
+Odysseus,participant,Odyssey,21.275-284,10,direct,,,,1264
+Odysseus,participant,Odyssey,21.424-430,7,direct,,,,1276
+Odysseus,participant,Odyssey,22.5-7,3,direct,,,,1277
+Odysseus,participant,Odyssey,22.35-41,7,direct,,,,1279
+Odysseus,participant,Odyssey,22.61-67,7,direct,,,,1281
+Odysseus,participant,Odyssey,22.106-107,2,direct,,,,1284
+Odysseus,participant,Odyssey,22.151-152,2,direct,,,,1287
+Odysseus,participant,Odyssey,22.171-177,7,direct,,,,1290
+Odysseus,participant,Odyssey,22.208-209,2,direct,,,,1292
+Odysseus,participant,Odyssey,22.262-264,3,direct,,,,1296
+Odysseus,participant,Odyssey,22.321-325,5,direct,,,,1299
+Odysseus,participant,Odyssey,22.372-377,6,direct,,,,1304
+Odysseus,participant,Odyssey,22.391-392,2,direct,,,,1305
+Odysseus,participant,Odyssey,22.411-418,8,direct,,,,1307
+Odysseus,participant,Odyssey,22.431-432,2,direct,,,,1309
+Odysseus,participant,Odyssey,22.437-445,9,direct,,,,1310
+Odysseus,participant,Odyssey,22.481-484,4,direct,,,,1312
+Odysseus,participant,Odyssey,22.491,1,direct,,,,1314
+Odysseus,participant,Odyssey,23.113-122,10,direct,,,,1325
+Odysseus,participant,Odyssey,23.130-140,11,direct,,,,1327
+Odysseus,participant,Odyssey,23.166-172,7,direct,,,,1329
+Odysseus,participant,Odyssey,23.183-204,22,direct,,,,1331
+Odysseus,participant,Odyssey,23.248-255,8,direct,,,,1333
+Odysseus,participant,Odyssey,23.264-284,21,direct,,,,1335
+Odysseus,participant,Odyssey,23.350-365,16,direct,,,,1337
+Odysseus,participant,Odyssey,24.214-218,5,direct,,,,1345
+Odysseus,participant,Odyssey,24.244-279,36,direct,,lie,,1346
+Odysseus,participant,Odyssey,24.303-314,12,direct,,lie,,1348
+Odysseus,participant,Odyssey,24.321-326,6,direct,,,,1349
+Odysseus,participant,Odyssey,24.331-344,14,direct,,,,1351
+Odysseus,participant,Odyssey,24.357-360,4,direct,,,,1353
+Odysseus,participant,Odyssey,24.373-374,2,direct,,,,1354
+Odysseus,participant,Odyssey,24.394-396,3,direct,,,,1356
+Odysseus,participant,Odyssey,24.407,1,direct,,,,1358
+Odysseus,participant,Odyssey,24.491,1,direct,,,,1364
+Odysseus,participant,Odyssey,24.506-509,4,direct,,,,1366
+Pandarus,participant,Iliad,5.102-105,4,direct,,,,114
+Pandarus,participant,Iliad,5.180-216,37,direct,,,,119
+Pandarus,participant,Iliad,5.230-238,9,direct,,,,121
+Pandarus,participant,Iliad,5.277-279,3,direct,,,,124
+Pandarus,participant,Iliad,5.284-285,2,direct,,,,125
+Paris,participant,Iliad,3.59-75,17,direct,,,,58
+Paris,participant,Iliad,3.438-446,9,direct,,,,83
+Paris,participant,Iliad,6.333-341,9,direct,,,,165
+Paris,participant,Iliad,6.518-519,2,direct,,,,176
+Paris,participant,Iliad,7.357-364,8,direct,,,,199
+Paris,participant,Iliad,11.380-383,4,direct,,,,301
+Paris,participant,Iliad,13.775-787,13,direct,,,,355
+Patroclus,participant,Iliad,11.606,1,direct,,,,311
+Patroclus,participant,Iliad,11.648-654,7,direct,,,,313
+Patroclus,participant,Iliad,11.816-821,6,direct,,,,316
+Patroclus,participant,Iliad,11.838-841,4,direct,,,,318
+Patroclus,participant,Iliad,15.399-404,6,direct,,,,407
+Patroclus,participant,Iliad,16.21-45,25,direct,,,,421
+Patroclus,participant,Iliad,16.269-274,6,direct,,,,427
+Patroclus,participant,Iliad,16.556-561,6,direct,,,,434
+Patroclus,participant,Iliad,16.627-631,5,direct,,,,437
+Patroclus,participant,Iliad,16.745-750,6,direct,,,,441
+Patroclus,participant,Iliad,16.844-854,11,direct,,,,444
+Patroclus,participant,Iliad,23.69-92,24,direct,,dream,,611
+Peiraeus,participant,Odyssey,15.545-546,2,direct,,,,1065
+Peiraeus,participant,Odyssey,17.75-76,2,direct,,,,1104
+Peisander (son of Antimachus),participant,Iliad,11.131-135,5,direct,,collective,Hippolochus (son of Antimachus),291
+Peisistratus,participant,Odyssey,3.43-50,8,direct,,,,743
+Peisistratus,participant,Odyssey,4.156-167,12,direct,,,,767
+Peisistratus,participant,Odyssey,4.190-202,13,direct,,,,769
+Peisistratus,participant,Odyssey,15.49-55,7,direct,,,,1030
+Peisistratus,participant,Odyssey,15.167-168,2,direct,,,,1038
+Peisistratus,participant,Odyssey,15.209-214,6,direct,,,,1042
+Peneleos,participant,Iliad,14.501-505,5,direct,,,,385
+Penelope,participant,Odyssey,1.337-344,8,direct,,,,712
+Penelope,participant,Odyssey,2.96-102,7,embedded,Antinous,,,722
+Penelope,participant,Odyssey,4.681-695,15,direct,,,,796
+Penelope,participant,Odyssey,4.707-710,4,direct,,,,798
+Penelope,participant,Odyssey,4.722-741,20,direct,,,,800
+Penelope,participant,Odyssey,4.762-766,5,direct,,prayer,,802
+Penelope,participant,Odyssey,4.810-823,14,direct,,dream,,806
+Penelope,participant,Odyssey,4.831-834,4,direct,,dream,,808
+Penelope,participant,Odyssey,16.418-433,16,direct,,,,1096
+Penelope,participant,Odyssey,17.41-44,4,direct,,,,1102
+Penelope,participant,Odyssey,17.101-106,6,direct,,,,1106
+Penelope,participant,Odyssey,17.163-165,3,direct,,,,1110
+Penelope,participant,Odyssey,17.494,1,direct,,,,1138
+Penelope,participant,Odyssey,17.499-504,6,direct,,,,1140
+Penelope,participant,Odyssey,17.508-511,4,direct,,,,1141
+Penelope,participant,Odyssey,17.529-540,12,direct,,,,1143
+Penelope,participant,Odyssey,17.544-550,7,direct,,,,1144
+Penelope,participant,Odyssey,17.576-578,3,direct,,,,1147
+Penelope,participant,Odyssey,17.586-588,3,direct,,,,1149
+Penelope,participant,Odyssey,18.164-168,5,direct,,,,1165
+Penelope,participant,Odyssey,18.178-184,7,direct,,,,1167
+Penelope,participant,Odyssey,18.201-205,5,direct,,,,1168
+Penelope,participant,Odyssey,18.215-225,11,direct,,,,1169
+Penelope,participant,Odyssey,18.251-280,18,direct,,,,1172
+Penelope,participant,Odyssey,19.91-95,5,direct,,,,1194
+Penelope,participant,Odyssey,19.97-99,3,direct,,,,1195
+Penelope,participant,Odyssey,19.104-105,2,direct,,,,1196
+Penelope,participant,Odyssey,19.124-163,33,direct,,,,1198
+Penelope,participant,Odyssey,19.141-147,7,embedded,Penelope,,,1199
+Penelope,participant,Odyssey,19.215-219,5,direct,,,,1201
+Penelope,participant,Odyssey,19.253-260,8,direct,,,,1203
+Penelope,participant,Odyssey,19.309-334,26,direct,,,,1205
+Penelope,participant,Odyssey,19.350-360,11,direct,,,,1207
+Penelope,participant,Odyssey,19.509-553,40,direct,,,,1216
+Penelope,participant,Odyssey,19.560-581,22,direct,,,,1219
+Penelope,participant,Odyssey,19.589-599,11,direct,,,,1221
+Penelope,participant,Odyssey,20.61-90,30,direct,,prayer,,1226
+Penelope,participant,Odyssey,21.68-79,12,direct,,,,1250
+Penelope,participant,Odyssey,21.312-319,8,direct,,,,1266
+Penelope,participant,Odyssey,21.331-342,12,direct,,,,1269
+Penelope,participant,Odyssey,23.11-24,14,direct,,,,1316
+Penelope,participant,Odyssey,23.35-38,4,direct,,,,1318
+Penelope,participant,Odyssey,23.59-68,10,direct,,,,1320
+Penelope,participant,Odyssey,23.81-84,4,direct,,,,1322
+Penelope,participant,Odyssey,23.105-110,6,direct,,,,1324
+Penelope,participant,Odyssey,23.174-180,7,direct,,,,1330
+Penelope,participant,Odyssey,23.209-230,22,direct,,,,1332
+Penelope,participant,Odyssey,23.257-262,6,direct,,,,1334
+Penelope,participant,Odyssey,23.286-287,2,direct,,,,1336
+Penelope,participant,Odyssey,24.131-137,7,embedded,Amphimedon,,,1343
+Phemius,participant,Odyssey,22.344-353,10,direct,,,,1300
+Philoetius,participant,Odyssey,20.191-196,6,direct,,,,1235
+Philoetius,participant,Odyssey,20.199-225,27,direct,,,,1236
+Philoetius,participant,Odyssey,20.236-237,2,direct,,,,1238
+Philoetius,participant,Odyssey,21.200-202,3,direct,,prayer,,1259
+Philoetius,participant,Odyssey,22.287-291,5,direct,,,,1297
+Phoenix (son of Amyntor),participant,Iliad,9.434-605,168,direct,,,,243
+Polites (companion of Odysseus),participant,Odyssey,10.226-228,3,embedded,Odysseus,,,916
+Polydamas,participant,Iliad,12.61-79,19,direct,,,,319
+Polydamas,participant,Iliad,12.211-229,19,direct,,,,321
+Polydamas,participant,Iliad,13.726-747,22,direct,,,,352
+Polydamas,participant,Iliad,14.454-457,4,direct,,,,382
+Polydamas,participant,Iliad,18.254-283,30,direct,,,,494
+Polyphemus (Cyclops),participant,Odyssey,9.252-255,4,embedded,Odysseus,,,892
+Polyphemus (Cyclops),participant,Odyssey,9.273-280,8,embedded,Odysseus,,,894
+Polyphemus (Cyclops),participant,Odyssey,9.355-359,5,embedded,Odysseus,,,897
+Polyphemus (Cyclops),participant,Odyssey,9.369-370,2,embedded,Odysseus,,,899
+Polyphemus (Cyclops),participant,Odyssey,9.408,1,embedded,Odysseus,,,901
+Polyphemus (Cyclops),participant,Odyssey,9.447-460,14,embedded,Odysseus,,,903
+Polyphemus (Cyclops),participant,Odyssey,9.507-521,15,embedded,Odysseus,,,907
+Polyphemus (Cyclops),participant,Odyssey,9.528-535,8,embedded,Odysseus,prayer,,909
+Priam,participant,Iliad,3.162-170,9,direct,,,,64
+Priam,participant,Iliad,3.182-190,9,direct,,,,66
+Priam,participant,Iliad,3.192-198,7,direct,,,,67
+Priam,participant,Iliad,3.226-227,2,direct,,,,70
+Priam,participant,Iliad,3.304-309,6,direct,,,,75
+Priam,participant,Iliad,7.368-378,11,direct,,,,200
+Priam,participant,Iliad,21.531-536,6,direct,,,,576
+Priam,participant,Iliad,22.38-76,39,direct,,,,581
+Priam,participant,Iliad,22.416-428,13,direct,,,,603
+Priam,participant,Iliad,24.194-199,6,direct,,,,662
+Priam,participant,Iliad,24.218-227,10,direct,,,,664
+Priam,participant,Iliad,24.239-246,8,direct,,,,665
+Priam,participant,Iliad,24.253-264,12,direct,,,,666
+Priam,participant,Iliad,24.300-301,2,direct,,,,668
+Priam,participant,Iliad,24.308-313,6,direct,,prayer,,669
+Priam,participant,Iliad,24.373-377,5,direct,,,,673
+Priam,participant,Iliad,24.387-388,2,direct,,,,675
+Priam,participant,Iliad,24.406-409,4,direct,,,,677
+Priam,participant,Iliad,24.425-431,7,direct,,,,679
+Priam,participant,Iliad,24.486-506,21,direct,,,,682
+Priam,participant,Iliad,24.553-558,6,direct,,,,684
+Priam,participant,Iliad,24.635-642,8,direct,,,,688
+Priam,participant,Iliad,24.660-667,8,direct,,,,690
+Priam,participant,Iliad,24.716-717,2,direct,,,,694
+Priam,participant,Iliad,24.778-781,4,direct,,,,698
+Sarpedon,participant,Iliad,5.472-492,21,direct,,,,137
+Sarpedon,participant,Iliad,5.648-654,7,direct,,,,141
+Sarpedon,participant,Iliad,5.684-688,5,direct,,,,142
+Sarpedon,participant,Iliad,12.310-328,15,direct,,,,324
+Sarpedon,participant,Iliad,12.409-412,4,direct,,,,329
+Sarpedon,participant,Iliad,16.422-425,4,direct,,,,428
+Sarpedon,participant,Iliad,16.492-501,10,direct,,,,431
+Socus,participant,Iliad,11.430-433,4,direct,,,,304
+Sthenelus (son of Capaneus),participant,Iliad,4.404-410,7,direct,,,,110
+Sthenelus (son of Capaneus),participant,Iliad,5.243-250,8,direct,,,,122
+Talthybius,participant,Iliad,4.204-207,4,direct,,,,97
+Tiresias,shade,Odyssey,11.92-96,5,embedded,Odysseus,,,942
+Tiresias,shade,Odyssey,11.100-137,38,embedded,Odysseus,,,943
+Tiresias,shade,Odyssey,11.146-149,4,embedded,Odysseus,,,945
+Telemachus,participant,Odyssey,1.123-124,2,direct,,,,703
+Telemachus,participant,Odyssey,1.158-177,20,direct,,,,704
+Telemachus,participant,Odyssey,1.214-220,7,direct,,,,706
+Telemachus,participant,Odyssey,1.231-251,21,direct,,,,708
+Telemachus,participant,Odyssey,1.307-313,7,direct,,,,710
+Telemachus,participant,Odyssey,1.346-359,14,direct,,,,713
+Telemachus,participant,Odyssey,1.368-380,13,direct,,,,714
+Telemachus,participant,Odyssey,1.389-398,10,direct,,,,716
+Telemachus,participant,Odyssey,1.413-419,7,direct,,,,718
+Telemachus,participant,Odyssey,2.40-79,40,direct,,,,720
+Telemachus,participant,Odyssey,2.130-145,16,direct,,,,723
+Telemachus,participant,Odyssey,2.209-223,15,direct,,,,726
+Telemachus,participant,Odyssey,2.262-266,5,direct,,prayer,,729
+Telemachus,participant,Odyssey,2.310-320,11,direct,,,,732
+Telemachus,participant,Odyssey,2.349-360,12,direct,,,,735
+Telemachus,participant,Odyssey,2.372-376,5,direct,,,,737
+Telemachus,participant,Odyssey,2.410-412,3,direct,,,,739
+Telemachus,participant,Odyssey,3.22-24,3,direct,,,,741
+Telemachus,participant,Odyssey,3.79-101,23,direct,,,,746
+Telemachus,participant,Odyssey,3.202-209,8,direct,,,,748
+Telemachus,participant,Odyssey,3.226-228,3,direct,,,,750
+Telemachus,participant,Odyssey,3.240-252,13,direct,,,,752
+Telemachus,participant,Odyssey,4.71-75,5,direct,,,,763
+Telemachus,participant,Odyssey,4.291-295,5,direct,,,,773
+Telemachus,participant,Odyssey,4.316-331,16,direct,,,,775
+Telemachus,participant,Odyssey,4.594-608,15,direct,,,,790
+Telemachus,participant,Odyssey,15.46-47,2,direct,,,,1029
+Telemachus,participant,Odyssey,15.64-66,3,direct,,,,1031
+Telemachus,participant,Odyssey,15.87-91,5,direct,,,,1033
+Telemachus,participant,Odyssey,15.155-159,5,direct,,,,1037
+Telemachus,participant,Odyssey,15.180-181,2,direct,,,,1040
+Telemachus,participant,Odyssey,15.195-201,7,direct,,,,1041
+Telemachus,participant,Odyssey,15.218-219,2,direct,,,,1043
+Telemachus,participant,Odyssey,15.266-270,5,direct,,,,1045
+Telemachus,participant,Odyssey,15.280-281,2,direct,,,,1047
+Telemachus,participant,Odyssey,15.503-507,5,direct,,,,1059
+Telemachus,participant,Odyssey,15.513-524,12,direct,,,,1061
+Telemachus,participant,Odyssey,15.536-538,3,direct,,,,1063
+Telemachus,participant,Odyssey,15.540-543,4,direct,,,,1064
+Telemachus,participant,Odyssey,16.31-35,5,direct,,,,1068
+Telemachus,participant,Odyssey,16.44-45,2,direct,,,,1070
+Telemachus,participant,Odyssey,16.57-59,3,direct,,,,1071
+Telemachus,participant,Odyssey,16.69-89,21,direct,,,,1073
+Telemachus,participant,Odyssey,16.113-134,22,direct,,,,1075
+Telemachus,participant,Odyssey,16.147-153,7,direct,,,,1077
+Telemachus,participant,Odyssey,16.181-185,5,direct,,,,1079
+Telemachus,participant,Odyssey,16.194-200,7,direct,,,,1081
+Telemachus,participant,Odyssey,16.222-224,3,direct,,,,1083
+Telemachus,participant,Odyssey,16.241-257,17,direct,,,,1085
+Telemachus,participant,Odyssey,16.263-265,3,direct,,,,1087
+Telemachus,participant,Odyssey,16.288-294,7,embedded,Odysseus,,,1089
+Telemachus,participant,Odyssey,16.309-320,12,direct,,,,1090
+Telemachus,participant,Odyssey,16.461-463,3,direct,,,,1098
+Telemachus,participant,Odyssey,17.6-15,10,direct,,,,1100
+Telemachus,participant,Odyssey,17.46-56,11,direct,,,,1103
+Telemachus,participant,Odyssey,17.78-83,6,direct,,,,1105
+Telemachus,participant,Odyssey,17.108-149,19,direct,,,,1107
+Telemachus,participant,Odyssey,17.345-347,3,direct,,,,1122
+Telemachus,participant,Odyssey,17.393-395,3,direct,,,,1128
+Telemachus,participant,Odyssey,17.397-404,8,direct,,,,1129
+Telemachus,participant,Odyssey,17.599-601,3,direct,,,,1151
+Telemachus,participant,Odyssey,18.61-65,5,direct,,,,1158
+Telemachus,participant,Odyssey,18.227-242,16,direct,,,,1170
+Telemachus,participant,Odyssey,18.406-409,4,direct,,,,1183
+Telemachus,participant,Odyssey,19.7-13,7,embedded,Odysseus,,,1186
+Telemachus,participant,Odyssey,19.16-20,5,direct,,,,1187
+Telemachus,participant,Odyssey,19.27-28,2,direct,,,,1189
+Telemachus,participant,Odyssey,19.36-40,5,direct,,,,1190
+Telemachus,participant,Odyssey,20.129-133,5,direct,,,,1229
+Telemachus,participant,Odyssey,20.262-267,6,direct,,,,1240
+Telemachus,participant,Odyssey,20.304-319,16,direct,,,,1243
+Telemachus,participant,Odyssey,20.339-344,6,direct,,,,1245
+Telemachus,participant,Odyssey,21.102-117,16,direct,,,,1252
+Telemachus,participant,Odyssey,21.131-135,5,direct,,,,1253
+Telemachus,participant,Odyssey,21.344-353,10,direct,,,,1270
+Telemachus,participant,Odyssey,21.369-375,7,direct,,,,1272
+Telemachus,participant,Odyssey,22.101-104,4,direct,,,,1283
+Telemachus,participant,Odyssey,22.154-159,6,direct,,,,1288
+Telemachus,participant,Odyssey,22.356-360,5,direct,,,,1301
+Telemachus,participant,Odyssey,22.395-397,3,direct,,,,1306
+Telemachus,participant,Odyssey,22.462-464,3,direct,,,,1311
+Telemachus,participant,Odyssey,23.97-103,7,direct,,,,1323
+Telemachus,participant,Odyssey,23.124-128,5,direct,,,,1326
+Telemachus,participant,Odyssey,24.511-512,2,direct,,,,1367
+Teucer,participant,Iliad,8.293-299,7,direct,,,,222
+Teucer,participant,Iliad,15.467-470,4,direct,,,,410
+Theano,participant,Iliad,6.305-310,6,direct,,prayer,,163
+Theoclymenus,participant,Odyssey,15.260-264,5,direct,,,,1044
+Theoclymenus,participant,Odyssey,15.272-278,7,direct,,,,1046
+Theoclymenus,participant,Odyssey,15.509-511,3,direct,,,,1060
+Theoclymenus,participant,Odyssey,15.531-534,4,direct,,,,1062
+Theoclymenus,participant,Odyssey,17.152-161,10,direct,,,,1109
+Theoclymenus,participant,Odyssey,20.351-357,7,direct,,,,1246
+Theoclymenus,participant,Odyssey,20.364-370,7,direct,,,,1248
+Thersites,participant,Iliad,2.225-242,18,direct,,,,47
+Thoas (son of Andraemon),participant,Iliad,15.286-299,14,direct,,,,404
+Thootes,participant,Iliad,12.354-363,10,direct,,,,327
+Tlepolemus (son of Heracles),participant,Iliad,5.633-646,14,direct,,,,140
+Anteia,referred,Iliad,6.164-165,2,embedded,Glaucus (son of Hippolochus),,,159
+Apollo,god,Iliad,4.509-513,5,direct,,,,112
+Apollo,god,Iliad,5.440-442,3,direct,,,,134
+Apollo,god,Iliad,5.455-459,5,direct,,,,135
+Apollo,god,Iliad,7.24-32,9,direct,,,,178
+Apollo,god,Iliad,7.38-42,5,direct,,,,180
+Apollo,god,Iliad,15.244-245,2,direct,,,,401
+Apollo,god,Iliad,15.254-261,8,direct,,,,403
+Apollo,god,Iliad,16.707-709,3,direct,,,,439
+Apollo,god,Iliad,16.721-725,5,direct,,disguised:Asius (son of Dymas),,440
+Apollo,god,Iliad,17.75-81,7,direct,,disguised:Mentes (Ciconian),,449
+Apollo,god,Iliad,17.327-332,6,direct,,disguised:Periphas (herald),,459
+Apollo,god,Iliad,17.586-590,5,direct,,disguised:Phaenops (son of Asius),,472
+Apollo,god,Iliad,20.83-85,3,direct,,disguised:Lycaon (son of Priam),,529
+Apollo,god,Iliad,20.104-109,6,direct,,disguised:Lycaon (son of Priam),,531
+Apollo,god,Iliad,20.376-378,3,direct,,,,542
+Apollo,god,Iliad,21.462-467,6,direct,,,,570
+Apollo,god,Iliad,22.8-13,6,direct,,,,579
+Apollo,god,Iliad,24.33-54,22,direct,,,,652
+Apollo,god,Odyssey,8.335-337,3,embedded,Demodocus,,,872
+Ares,god,Iliad,5.464-469,6,direct,,"disguised:Acamas (son of Eussorus, Thracian)",,136
+Ares,god,Iliad,5.872-887,16,direct,,,,150
+Ares,god,Iliad,15.115-118,4,direct,,,,392
+Ares,god,Iliad,21.394-399,6,direct,,,,565
+Ares,god,Odyssey,8.292-294,3,embedded,Demodocus,,,869
+Artemis,god,Iliad,21.472-477,6,direct,,,,571
+Artemis,god,Iliad,21.512-513,2,direct,,,,575
+Athena,god,Iliad,1.207-214,8,direct,,,,14
+Athena,god,Iliad,2.173-181,9,direct,,,,44
+Athena,god,Iliad,4.93-103,11,direct,,disguised:Laodocus (son of Antenor),,91
+Athena,god,Iliad,5.31-34,4,direct,,,,113
+Athena,god,Iliad,5.124-132,9,direct,,,,117
+Athena,god,Iliad,5.421-425,5,direct,,,,132
+Athena,god,Iliad,5.800-813,14,direct,,,,147
+Athena,god,Iliad,5.826-834,9,direct,,,,149
+Athena,god,Iliad,7.34-36,3,direct,,,,179
+Athena,god,Iliad,8.31-37,7,direct,,,,207
+Athena,god,Iliad,8.358-380,23,direct,,,,224
+Athena,god,Iliad,10.509-511,3,direct,,,,287
+Athena,god,Iliad,15.128-141,14,direct,,,,393
+Athena,god,Iliad,17.556-559,4,direct,,disguised:Phoenix (son of Amyntor),,470
+Athena,god,Iliad,21.410-414,5,direct,,,,566
+Athena,god,Iliad,21.428-433,6,direct,,,,568
+Athena,god,Iliad,22.178-181,4,direct,,,,586
+Athena,god,Iliad,22.216-223,8,direct,,,,588
+Athena,god,Iliad,22.229-231,3,direct,,disguised:Deiphobus,,589
+Athena,god,Iliad,22.239-246,8,direct,,disguised:Deiphobus,,591
+Athena,god,Odyssey,1.45-62,18,direct,,,,700
+Athena,god,Odyssey,1.81-95,15,direct,,,,702
+Athena,god,Odyssey,1.179-212,34,direct,,disguised:Mentes (Taphian),,705
+Athena,god,Odyssey,1.222-229,8,direct,,disguised:Mentes (Taphian),,707
+Athena,god,Odyssey,1.253-305,53,direct,,disguised:Mentes (Taphian),,709
+Athena,god,Odyssey,1.315-318,4,direct,,disguised:Mentes (Taphian),,711
+Athena,god,Odyssey,2.270-295,26,direct,,disguised:Mentor (Ithacan),,730
+Athena,god,Odyssey,2.402-404,3,direct,,disguised:Mentor (Ithacan),,738
+Athena,god,Odyssey,3.14-20,7,direct,,disguised:Mentor (Ithacan),,740
+Athena,god,Odyssey,3.26-28,3,direct,,disguised:Mentor (Ithacan),,742
+Athena,god,Odyssey,3.55-61,7,direct,,disguised:Mentor (Ithacan) prayer,,744
+Athena,god,Odyssey,3.230-238,9,direct,,disguised:Mentor (Ithacan),,751
+Athena,god,Odyssey,3.331-336,6,direct,,disguised:Mentor (Ithacan),,754
+Athena,god,Odyssey,3.357-370,14,direct,,disguised:Mentor (Ithacan),,756
+Athena,god,Odyssey,5.7-20,14,direct,,,,810
+Athena,god,Odyssey,6.25-40,16,direct,,disguised:daughter of Dymas dream,,830
+Athena,god,Odyssey,7.28-36,9,direct,,disguised:young girl with a pitcher,,843
+Athena,god,Odyssey,7.48-77,30,direct,,disguised:young girl with a pitcher,,844
+Athena,god,Odyssey,8.11-14,4,direct,,disguised:herald of Alcinous,,857
+Athena,god,Odyssey,8.195-198,4,direct,,disguised:a man,,866
+Athena,god,Odyssey,13.237-249,13,direct,,disguised:young herdsman (unnamed),,996
+Athena,god,Odyssey,13.291-310,20,direct,,,,998
+Athena,god,Odyssey,13.330-351,22,direct,,,,1000
+Athena,god,Odyssey,13.362-365,4,direct,,,,1002
+Athena,god,Odyssey,13.375-381,7,direct,,,,1003
+Athena,god,Odyssey,13.393-415,23,direct,,,,1005
+Athena,god,Odyssey,13.421-428,8,direct,,,,1007
+Athena,god,Odyssey,15.10-42,33,direct,,,,1028
+Athena,god,Odyssey,16.167-171,5,direct,,disguised:woman,,1078
+Athena,god,Odyssey,20.33-35,3,direct,,disguised:woman,,1223
+Athena,god,Odyssey,20.45-53,9,direct,,disguised:woman,,1225
+Athena,god,Odyssey,22.226-235,10,direct,,disguised:Mentor,,1294
+Athena,god,Odyssey,24.473-476,4,direct,,,,1362
+Athena,god,Odyssey,24.517-519,3,direct,,disguised:Mentor,,1369
+Athena,god,Odyssey,24.531-532,2,direct,,disguised:Mentor,,1370
+Athena,god,Odyssey,24.542-544,3,direct,,disguised:Mentor,,1371
+Autolycus,referred,Odyssey,19.406-412,7,direct,,,,1211
+Hera,god,Iliad,1.540-543,4,direct,,,,31
+Hera,god,Iliad,1.552-559,8,direct,,,,33
+Hera,god,Iliad,2.157-165,9,direct,,,,43
+Hera,god,Iliad,4.25-29,5,direct,,,,86
+Hera,god,Iliad,4.51-67,17,direct,,,,88
+Hera,god,Iliad,5.714-718,5,direct,,,,143
+Hera,god,Iliad,5.757-763,7,direct,,,,144
+Hera,god,Iliad,5.787-791,5,direct,,disguised:Stentor,,146
+Hera,god,Iliad,8.201-207,7,direct,,,,218
+Hera,god,Iliad,8.352-356,5,direct,,,,223
+Hera,god,Iliad,8.427-431,5,direct,,,,227
+Hera,god,Iliad,8.462-468,7,direct,,,,229
+Hera,god,Iliad,14.190-192,3,direct,,,,366
+Hera,god,Iliad,14.198-210,13,direct,,,,368
+Hera,god,Iliad,14.233-241,9,direct,,,,371
+Hera,god,Iliad,14.264-268,5,direct,,,,373
+Hera,god,Iliad,14.301-311,11,direct,,,,376
+Hera,god,Iliad,14.330-340,11,direct,,,,378
+Hera,god,Iliad,15.36-46,11,direct,,,,387
+Hera,god,Iliad,15.93-99,7,direct,,,,390
+Hera,god,Iliad,15.104-112,9,direct,,,,391
+Hera,god,Iliad,15.146-148,3,direct,,,,394
+Hera,god,Iliad,16.440-457,18,direct,,,,430
+Hera,god,Iliad,18.361-367,7,direct,,,,498
+Hera,god,Iliad,19.107-111,5,embedded,Agamemnon,,,511
+Hera,god,Iliad,19.121-124,4,embedded,Agamemnon,,,512
+Hera,god,Iliad,20.115-131,17,direct,,,,532
+Hera,god,Iliad,20.310-317,8,direct,,,,537
+Hera,god,Iliad,21.331-341,11,direct,,,,561
+Hera,god,Iliad,21.379-380,2,direct,,,,564
+Hera,god,Iliad,21.420-422,3,direct,,,,567
+Hera,god,Iliad,21.481-488,8,direct,,,,572
+Hera,god,Iliad,24.56-63,8,direct,,,,653
+Menoetius,referred,Iliad,11.786-789,4,embedded,Nestor,,,315
+Peleus,referred,Iliad,9.254-258,5,embedded,Odysseus,,,241
+Phoenician woman (nurse of Eumaeus),referred,Odyssey,15.425-429,5,embedded,Eumaeus,unnamed,,1054
+Phoenician woman (nurse of Eumaeus),referred,Odyssey,15.435-436,2,embedded,Eumaeus,unnamed,,1056
+Phoenician woman (nurse of Eumaeus),referred,Odyssey,15.440-453,14,embedded,Eumaeus,unnamed,,1057
+Poseidon,god,Iliad,7.446-453,8,direct,,,,204
+Poseidon,god,Iliad,8.209-211,3,direct,,,,219
+Poseidon,god,Iliad,13.47-58,12,direct,,disguised:Calchas,,331
+Poseidon,god,Iliad,13.95-124,30,direct,,disguised:Calchas,,334
+Poseidon,god,Iliad,13.219-220,2,direct,,disguised:Thoas,,336
+Poseidon,god,Iliad,13.232-238,7,direct,,disguised:Thoas,,338
+Poseidon,god,Iliad,14.139-146,8,direct,,disguised:old man,,365
+Poseidon,god,Iliad,14.364-377,14,direct,,,,381
+Poseidon,god,Iliad,15.185-199,15,direct,,,,397
+Poseidon,god,Iliad,15.206-217,12,direct,,,,399
+Poseidon,god,Iliad,20.16-18,3,direct,,,,527
+Poseidon,god,Iliad,20.133-143,11,direct,,,,533
+Poseidon,god,Iliad,20.293-308,16,direct,,,,536
+Poseidon,god,Iliad,20.332-339,8,direct,,,,538
+Poseidon,god,Iliad,21.288-297,10,direct,,disguised:a man (unnamed),,559
+Poseidon,god,Iliad,21.436-460,25,direct,,,,569
+Poseidon,god,Odyssey,5.286-290,5,direct,,,,822
+Poseidon,god,Odyssey,5.377-379,3,direct,,,,826
+Poseidon,god,Odyssey,8.347-348,2,embedded,Demodocus,,,874
+Poseidon,god,Odyssey,8.355-356,2,embedded,Demodocus,,,876
+Poseidon,god,Odyssey,11.248-252,5,embedded,Odysseus,,,951
+Poseidon,god,Odyssey,13.128-138,11,direct,,,,988
+Poseidon,god,Odyssey,13.147-152,6,direct,,,,990
+Zeus,god,Iliad,1.518-527,10,direct,,,,30
+Zeus,god,Iliad,1.545-550,6,direct,,,,32
+Zeus,god,Iliad,1.561-567,7,direct,,,,34
+Zeus,god,Iliad,2.8-15,8,direct,,,,37
+Zeus,god,Iliad,4.7-19,13,direct,,,,85
+Zeus,god,Iliad,4.31-49,19,direct,,,,87
+Zeus,god,Iliad,4.70-72,3,direct,,,,89
+Zeus,god,Iliad,5.428-430,3,direct,,,,133
+Zeus,god,Iliad,5.765-766,2,direct,,,,145
+Zeus,god,Iliad,5.889-898,10,direct,,,,151
+Zeus,god,Iliad,7.455-463,9,direct,,,,205
+Zeus,god,Iliad,8.5-27,23,direct,,,,206
+Zeus,god,Iliad,8.39-40,2,direct,,,,208
+Zeus,god,Iliad,8.399-408,10,direct,,,,225
+Zeus,god,Iliad,8.447-456,10,direct,,,,228
+Zeus,god,Iliad,8.470-483,14,direct,,,,230
+Zeus,god,Iliad,11.186-194,9,direct,,,,293
+Zeus,god,Iliad,14.298-299,2,direct,,,,375
+Zeus,god,Iliad,14.313-328,16,direct,,,,377
+Zeus,god,Iliad,14.342-345,4,direct,,,,379
+Zeus,god,Iliad,15.14-33,20,direct,,,,386
+Zeus,god,Iliad,15.49-77,29,direct,,,,388
+Zeus,god,Iliad,15.158-167,10,direct,,,,395
+Zeus,god,Iliad,15.221-235,15,direct,,,,400
+Zeus,god,Iliad,16.433-438,6,direct,,,,429
+Zeus,god,Iliad,16.667-675,9,direct,,,,438
+Zeus,god,Iliad,17.201-208,8,direct,,,,455
+Zeus,god,Iliad,17.443-455,13,direct,,,,463
+Zeus,god,Iliad,18.357-359,3,direct,,,,497
+Zeus,god,Iliad,19.101-105,5,embedded,Agamemnon,,,510
+Zeus,god,Iliad,19.342-348,7,direct,,,,523
+Zeus,god,Iliad,20.20-30,11,direct,,,,528
+Zeus,god,Iliad,21.509-510,2,direct,,,,574
+Zeus,god,Iliad,22.168-176,9,direct,,,,585
+Zeus,god,Iliad,22.183-185,3,direct,,,,587
+Zeus,god,Iliad,24.65-76,12,direct,,,,654
+Zeus,god,Iliad,24.104-119,16,direct,,,,657
+Zeus,god,Iliad,24.144-158,15,direct,,,,660
+Zeus,god,Iliad,24.334-338,5,direct,,,,670
+Zeus,god,Odyssey,1.32-43,10,direct,,,,699
+Zeus,god,Odyssey,1.64-79,16,direct,,,,701
+Zeus,god,Odyssey,5.22-27,6,direct,,,,811
+Zeus,god,Odyssey,5.29-42,14,direct,,,,812
+Zeus,god,Odyssey,12.385-388,4,embedded,Odysseus,,,983
+Zeus,god,Odyssey,13.140-145,6,direct,,,,989
+Zeus,god,Odyssey,13.154-158,5,direct,,,,991
+Zeus,god,Odyssey,24.478-486,9,direct,,,,1363
+Thetis,god,Iliad,1.362-363,2,direct,,,,23
+Thetis,god,Iliad,1.414-427,14,direct,,,,25
+Thetis,god,Iliad,1.503-510,8,direct,,,,28
+Thetis,god,Iliad,1.514-516,3,direct,,,,29
+Thetis,god,Iliad,18.52-64,13,direct,,,,482
+Thetis,god,Iliad,18.73-77,5,direct,,,,483
+Thetis,god,Iliad,18.95-96,2,direct,,,,485
+Thetis,god,Iliad,18.128-137,10,direct,,,,487
+Thetis,god,Iliad,18.140-144,5,direct,,,,488
+Thetis,god,Iliad,18.429-461,33,direct,,,,503
+Thetis,god,Iliad,19.8-11,4,direct,,,,505
+Thetis,god,Iliad,19.29-36,8,direct,,,,507
+Thetis,god,Iliad,24.90-92,3,direct,,,,656
+Thetis,god,Iliad,24.128-137,10,direct,,,,658
+Aphrodite,god,Iliad,3.390-394,5,direct,,disguised:old wool-comber of Helen (unnamed),,79
+Aphrodite,god,Iliad,3.414-417,4,direct,,,,81
+Aphrodite,god,Iliad,5.359-362,4,direct,,,,128
+Aphrodite,god,Iliad,5.376-380,5,direct,,,,130
+Aphrodite,god,Iliad,14.194-196,3,direct,,,,367
+Aphrodite,god,Iliad,14.212-213,2,direct,,,,369
+Aphrodite,god,Iliad,14.219-221,3,direct,,,,370
+Hermes,god,Iliad,21.498-501,4,direct,,,,573
+Hermes,god,Iliad,24.362-371,10,direct,,disguised:young man (squire of Achilles),,672
+Hermes,god,Iliad,24.379-385,7,direct,,disguised:young man (squire of Achilles),,674
+Hermes,god,Iliad,24.390-404,15,direct,,disguised:young man (squire of Achilles) lie,,676
+Hermes,god,Iliad,24.411-423,13,direct,,disguised:young man (squire of Achilles),,678
+Hermes,god,Iliad,24.433-439,7,direct,,disguised:young man (squire of Achilles),,680
+Hermes,god,Iliad,24.460-467,8,direct,,,,681
+Hermes,god,Iliad,24.683-688,6,direct,,,,692
+Hermes,god,Odyssey,5.97-115,19,direct,,,,814
+Hermes,god,Odyssey,5.146-147,2,direct,,,,816
+Hermes,god,Odyssey,8.339-342,4,embedded,Demodocus,,,873
+Hermes,god,Odyssey,10.281-301,21,embedded,Odysseus,disguised:young man,,920
+Hermes,god,Odyssey,1.40-41,2,embedded,Zeus,not-in-DICES,,
+Ino,god,Odyssey,5.339-350,12,direct,,,,824
+Circe,god,Odyssey,10.320,1,embedded,Odysseus,,,921
+Circe,god,Odyssey,10.325-335,11,embedded,Odysseus,,,922
+Circe,god,Odyssey,10.378-381,4,embedded,Odysseus,,,924
+Circe,god,Odyssey,10.401-405,5,embedded,Odysseus,,,926
+Circe,god,Odyssey,10.457-465,9,embedded,Odysseus,,,931
+Circe,god,Odyssey,10.488-495,8,embedded,Odysseus,,,934
+Circe,god,Odyssey,10.504-540,37,embedded,Odysseus,,,936
+Circe,god,Odyssey,12.21-27,7,embedded,Odysseus,,,969
+Circe,god,Odyssey,12.37-110,74,embedded,Odysseus,,,970
+Circe,god,Odyssey,12.116-141,26,embedded,Odysseus,,,972
+Helios,god,Odyssey,12.377-383,7,embedded,Odysseus,,,982
+Hephaestus,god,Iliad,1.573-583,11,direct,,,,35
+Hephaestus,god,Iliad,1.586-594,9,direct,,,,36
+Hephaestus,god,Iliad,18.394-409,16,direct,,,,501
+Hephaestus,god,Iliad,18.424-427,4,direct,,,,502
+Hephaestus,god,Iliad,18.463-467,5,direct,,,,504
+Hephaestus,god,Odyssey,8.306-320,15,embedded,Demodocus,,,870
+Hephaestus,god,Odyssey,8.350-353,4,embedded,Demodocus,,,875
+Hephaestus,god,Odyssey,8.358,1,embedded,Demodocus,,,877
+Dream,group,Iliad,2.23-34,12,direct,,dream disguised:Nestor,,38
+Dream,group,Iliad,2.60-70,11,embedded,Agamemnon,dream disguised:Nestor,,40
+Achaeans,group,Iliad,2.272-277,6,direct,,collective,,49
+Iris,god,Iliad,2.796-806,11,direct,,disguised:Polites,,56
+Iris,god,Iliad,3.130-138,9,direct,,disguised:Laodice (daughter of Priam),,62
+Iris,god,Iliad,8.413-424,12,direct,,,,226
+Iris,god,Iliad,11.200-209,10,direct,,,,294
+Iris,god,Iliad,15.174-183,10,direct,,,,396
+Iris,god,Iliad,15.201-204,4,direct,,,,398
+Iris,god,Iliad,18.170-180,11,direct,,,,489
+Iris,god,Iliad,18.184-186,3,direct,,,,491
+Iris,god,Iliad,18.197-201,5,direct,,,,493
+Iris,god,Iliad,23.205-211,7,direct,,,,617
+Iris,god,Iliad,24.88,1,direct,,,,655
+Iris,god,Iliad,24.171-187,17,direct,,,,661
+Trojan elders,group,Iliad,3.156-160,5,direct,,collective,,63
+Achaeans and Trojans,group,Iliad,3.298-301,4,direct,,collective prayer,,74
+Achaeans and Trojans,group,Iliad,3.320-323,4,direct,,collective prayer,,76
+Achaeans and Trojans,group,Iliad,4.82-84,3,direct,,collective,,90
+Trojan (τις),group,Iliad,4.178-181,4,embedded,Agamemnon,collective unnamed,,93
+Dione,god,Iliad,5.373-374,2,direct,,,,129
+Dione,god,Iliad,5.382-415,34,direct,,,,131
+Unnamed housekeeper (ταμίη),group,Iliad,6.382-389,8,direct,,unnamed,,169
+"Unnamed (τις, an onlooker in Argos)",group,Iliad,6.460-461,2,embedded,Hector,collective unnamed,,172
+"Unnamed (τις, a Trojan)",group,Iliad,6.479,1,embedded,Hector,collective unnamed prayer,,174
+"Unnamed (τις, a man of later generations sailing by)",group,Iliad,7.89-90,2,embedded,Hector,collective unnamed,,183
+"Unnamed (τις, an Achaean of the host)",group,Iliad,7.179-180,2,direct,,collective unnamed prayer,,188
+"Unnamed (τις, an Achaean of the host)",group,Iliad,7.202-205,4,direct,,collective unnamed prayer,,190
+"Unnamed (τις, an Achaean or Trojan)",group,Iliad,7.301-302,2,embedded,Hector,collective unnamed,,196
+UNNAMED Lycian,group,Iliad,12.318-321,4,embedded,Sarpedon,collective unnamed,,325
+Hypnos,god,Iliad,14.243-262,20,direct,,,,372
+Hypnos,god,Iliad,14.271-276,6,direct,,,,374
+Hypnos,god,Iliad,14.357-360,4,direct,,,,380
+Themis,group,Iliad,15.90-91,2,direct,,,,389
+Myrmidons,group,Iliad,16.203-206,4,embedded,Achilles,collective,,425
+UNNAMED Achaean,group,Iliad,17.415-419,5,direct,,collective unnamed,,461
+UNNAMED Trojan,group,Iliad,17.421-422,2,direct,,collective unnamed,,462
+Charis,god,Iliad,18.385-387,3,direct,,,,499
+Charis,god,Iliad,18.392,1,direct,,,,500
+Xanthus (horse),group,Iliad,19.408-417,10,direct,,,,525
+Scamander,group,Iliad,21.214-221,8,direct,,disguised:a man (unnamed),,555
+Scamander,group,Iliad,21.229-232,4,direct,,,,557
+Scamander,group,Iliad,21.308-323,16,direct,,,,560
+Scamander,group,Iliad,21.357-360,4,direct,,,,562
+Scamander,group,Iliad,21.369-376,8,direct,,,,563
+Anonymous Trojan (τις),group,Iliad,22.107,1,embedded,Hector,collective,,584
+Anonymous Achaean (τις),group,Iliad,22.373-374,2,direct,,collective,,601
+Anonymous child (ἀμφιθαλής),group,Iliad,22.498,1,embedded,Andromache,unnamed,,607
+UNNAMED (τις Ἀχαιῶν),group,Iliad,23.576-578,3,embedded,Menelaus,collective unnamed,,633
+Suitors (τις),group,Odyssey,2.325-330,6,direct,,collective unnamed,,733
+Suitors (τις),group,Odyssey,2.332-336,5,direct,,collective unnamed,,734
+Eidothea,god,Odyssey,4.371-374,4,embedded,Menelaus,,,777
+Eidothea,god,Odyssey,4.383-393,11,embedded,Menelaus,,,779
+Eidothea,god,Odyssey,4.399-424,26,embedded,Menelaus,,,781
+Proteus,god,Odyssey,4.462-463,2,embedded,Menelaus,,,782
+Proteus,god,Odyssey,4.472-480,9,embedded,Menelaus,,,784
+Proteus,god,Odyssey,4.492-537,46,embedded,Menelaus,,,786
+Proteus,god,Odyssey,4.543-547,5,embedded,Menelaus,,,787
+Proteus,god,Odyssey,4.555-569,15,embedded,Menelaus,,,789
+"Unnamed (τις, one of the suitors)",group,Odyssey,4.770-771,2,direct,,collective unnamed,,803
+Phantom of Iphthime (sent by Athena),group,Odyssey,4.804-807,4,direct,,dream disguised:Iphthime,,805
+Phantom of Iphthime (sent by Athena),group,Odyssey,4.825-829,5,direct,,dream disguised:Iphthime,,807
+Phantom of Iphthime (sent by Athena),group,Odyssey,4.836-837,2,direct,,dream disguised:Iphthime,,809
+Calypso,god,Odyssey,5.87-91,5,direct,,,,813
+Calypso,god,Odyssey,5.118-144,27,direct,,,,815
+Calypso,god,Odyssey,5.160-170,11,direct,,,,817
+Calypso,god,Odyssey,5.182-191,10,direct,,,,819
+Calypso,god,Odyssey,5.203-213,11,direct,,,,820
+"UNNAMED (τις, a baser Phaeacian)",group,Odyssey,6.276-284,9,embedded,Nausicaa,collective unnamed,,840
+UNNAMED (handmaids of Arete),group,Odyssey,7.342,1,direct,,collective unnamed,,856
+"UNNAMED (τις, one of the gods)",group,Odyssey,8.329-332,4,embedded,Demodocus,collective unnamed,,871
+UNNAMED (Cyclopes),group,Odyssey,9.403-406,4,embedded,Odysseus,collective unnamed,,900
+UNNAMED (Cyclopes),group,Odyssey,9.410-412,3,embedded,Odysseus,collective unnamed,,902
+UNNAMED (companions of Odysseus),group,Odyssey,9.494-499,6,embedded,Odysseus,collective unnamed,,905
+UNNAMED (companions of Odysseus),group,Odyssey,10.419-421,3,embedded,Odysseus,collective unnamed,,927
+UNNAMED (companions of Odysseus),group,Odyssey,10.443-445,3,embedded,Odysseus,collective unnamed,,930
+UNNAMED (companions of Odysseus),group,Odyssey,10.472-474,3,embedded,Odysseus,collective unnamed,,932
+"UNNAMED (τις, a companion of Odysseus)",group,Odyssey,10.38-45,8,embedded,Odysseus,collective unnamed,,910
+UNNAMED (family of Aeolus),group,Odyssey,10.64-66,3,embedded,Odysseus,collective unnamed,,911
+Sirens,group,Odyssey,12.184-191,8,embedded,Odysseus,collective,,974
+"Unnamed (τις, a Phaeacian)",group,Odyssey,13.168-169,2,direct,,collective unnamed,,992
+Unnamed (Odysseus' Cretan persona),group,Odyssey,14.486-489,4,embedded,Odysseus,lie fictitious-speaker unnamed,,1024
+UNNAMED Phoenician sailor (the woman's seducer),group,Odyssey,15.431-433,3,embedded,Eumaeus,unnamed,,1055
+UNNAMED herald (from Telemachus' ship),group,Odyssey,16.337,1,direct,,unnamed,,1091
+Unnamed suitor (τις),group,Odyssey,17.483-487,5,direct,,collective unnamed,,1137
+Unnamed suitor (τις),group,Odyssey,18.73-74,2,direct,,collective unnamed,,1159
+Unnamed suitor (τις),group,Odyssey,18.401-404,4,direct,,collective unnamed,,1182
+Suitors,group,Odyssey,18.112-116,5,direct,,collective,,1162
+Suitors,group,Odyssey,22.27-30,4,direct,,collective unnamed,,1278
+Eagle (in Penelope's dream),group,Odyssey,19.546-550,5,embedded,Penelope,dream,,1217
+UNNAMED: woman grinding at the mill,group,Odyssey,20.112-119,8,direct,,prayer unnamed,,1228
+UNNAMED: one of the suitors (τις),group,Odyssey,20.376-383,8,direct,,collective unnamed,,1249
+"Unnamed (τις, a baser Achaean)",group,Odyssey,21.325-328,4,embedded,Eurymachus,collective unnamed,,1268
+"Unnamed (τις, a suitor)",group,Odyssey,21.362-365,4,direct,,collective unnamed,,1271
+"Unnamed (τις, a suitor)",group,Odyssey,21.397-400,4,direct,,collective unnamed,,1274
+"Unnamed (τις, a suitor)",group,Odyssey,21.402-403,2,direct,,collective unnamed,,1275
+"UNNAMED (τις, someone outside the house)",group,Odyssey,23.149-151,3,direct,,collective unnamed,,1328
+UNNAMED (son of Dolius),group,Odyssey,24.495,1,direct,,unnamed,,1365
